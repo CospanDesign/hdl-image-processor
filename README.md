@@ -1,5 +1,4 @@
-HDL Image Processing
-====================
+#HDL Image Processing#
 
 Image Processing Pipeline for MIT Aero Astro Group
 
@@ -20,10 +19,10 @@ The project is broken down into three main parts:
   * Output images over HDMI
 * MIT UAV Rev C: This is similar to the KC705 except with 3 cameras
 
-*Dependencies*
+##Dependencies##
 
-* Xilinx Vivado Version 2016.1
-* Xilinx Arm Toolchain (This might be available on the Pynq board)
+* Xilinx Vivado Version 2016.1 [Vivado 2016.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2016-1.html)
+* Xilinx Arm Toolchain (This might be available on the Pynq board): [SDSoc](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/sdx-development-environments.html)
 * Software Libraries
  * libtiff ??
  * libjpeg ??
