@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="top.cpp" path="/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/top.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="test.cpp" path="/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/test.cpp"/>
+    <originFiles name="opencv_top.cpp" path="/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/opencv_top.cpp"/>
+    <originFiles name="test_1080p.bmp" path="/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/common/images/test_1080p.bmp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

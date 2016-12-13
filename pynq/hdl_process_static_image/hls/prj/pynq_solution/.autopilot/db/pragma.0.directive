@@ -1,0 +1,62 @@
+<AutoPilot:ProjectResources xmlns:AutoPilot="com.autoesl.autopilot.ui.directiveView">
+<sourceFile name="">
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="INTERFACE">
+<option name="axis" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="video_in"/>
+<option name="bundle" value="INPUT_STREAM"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="INTERFACE">
+<option name="axis" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="video_out"/>
+<option name="bundle" value="OUTPUT_STREAM"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="rows"/>
+<option name="offset" value="0x14"/>
+<option name="bundle" value="CONTROL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="cols"/>
+<option name="offset" value="0x1C"/>
+<option name="bundle" value="CONTROL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="return"/>
+<option name="bundle" value="CONTROL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="INTERFACE">
+<option name="ap_stable" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="rows"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="INTERFACE">
+<option name="ap_stable" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="cols"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="DATAFLOW"/>
+</directive>
+<directive functionLabel="" functionName="image_filter" label="">
+<pragma name="STREAM">
+<option name="variable" positionalBoolean="4" value="img_1_.data_stream"/>
+<option name="depth" value="20000"/>
+</pragma>
+</directive>
+</sourceFile>
+</AutoPilot:ProjectResources>
