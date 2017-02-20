@@ -633,7 +633,7 @@
 <SummaryOfTimingAnalysis>
 <TargetClockPeriod>7.00</TargetClockPeriod>
 <ClockUncertainty>0.88</ClockUncertainty>
-<EstimatedClockPeriod>6.13</EstimatedClockPeriod>
+<EstimatedClockPeriod>6.12</EstimatedClockPeriod>
 </SummaryOfTimingAnalysis>
 <SummaryOfOverallLatency>
 <Best-caseLatency>1</Best-caseLatency>
@@ -988,7 +988,7 @@
 <SummaryOfTimingAnalysis>
 <TargetClockPeriod>7.00</TargetClockPeriod>
 <ClockUncertainty>0.88</ClockUncertainty>
-<EstimatedClockPeriod>6.13</EstimatedClockPeriod>
+<EstimatedClockPeriod>6.12</EstimatedClockPeriod>
 </SummaryOfTimingAnalysis>
 <SummaryOfOverallLatency>
 <Best-caseLatency>1</Best-caseLatency>

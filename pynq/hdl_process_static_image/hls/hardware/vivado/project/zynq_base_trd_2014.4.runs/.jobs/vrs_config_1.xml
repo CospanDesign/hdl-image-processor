@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<Runs Version="1" Minor="0">
-	<Run Id="synth_1" LaunchDir="/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/hardware/vivado/project/zynq_base_trd_2014.4.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
-</Runs>
-

@@ -29,72 +29,72 @@
 		<link>
 			<name>source</name>
 			<type>2</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/.apc/.src</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/.apc/.src</location>
 		</link>
 		<link>
 			<name>testbench</name>
 			<type>2</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/.apc/.tb</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/.apc/.tb</location>
+		</link>
+		<link>
+			<name>.reference/top.h</name>
+			<type>1</type>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/top.h</location>
 		</link>
 		<link>
 			<name>pynq_solution/constraints</name>
 			<type>2</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/pynq_solution/.tcls</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/pynq_solution/.tcls</location>
 		</link>
 		<link>
 			<name>solution1/constraints</name>
 			<type>2</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/solution1/.tcls</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/solution1/.tcls</location>
 		</link>
 		<link>
 			<name>source/top.cpp</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/top.cpp</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/top.cpp</location>
 		</link>
 		<link>
 			<name>testbench/opencv_top.cpp</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/opencv_top.cpp</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/opencv_top.cpp</location>
 		</link>
 		<link>
 			<name>testbench/test.cpp</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/test.cpp</location>
-		</link>
-		<link>
-			<name>testbench/test_1080p.bmp</name>
-			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/common/images/test_1080p.bmp</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/test.cpp</location>
 		</link>
 		<link>
 			<name>pynq_solution/constraints/.xml.directive</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/pynq_solution/pynq_solution.directive</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/pynq_solution/pynq_solution.directive</location>
 		</link>
 		<link>
 			<name>pynq_solution/constraints/directives.tcl</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/pynq_solution/directives.tcl</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/pynq_solution/directives.tcl</location>
 		</link>
 		<link>
 			<name>pynq_solution/constraints/script.tcl</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/pynq_solution/script.tcl</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/pynq_solution/script.tcl</location>
 		</link>
 		<link>
 			<name>solution1/constraints/.xml.directive</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/solution1/solution1.directive</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/solution1/solution1.directive</location>
 		</link>
 		<link>
 			<name>solution1/constraints/directives.tcl</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/solution1/directives.tcl</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/solution1/directives.tcl</location>
 		</link>
 		<link>
 			<name>solution1/constraints/script.tcl</name>
 			<type>1</type>
-			<location>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/solution1/script.tcl</location>
+			<location>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/solution1/script.tcl</location>
 		</link>
 	</linkedResources>
 </projectDescription>

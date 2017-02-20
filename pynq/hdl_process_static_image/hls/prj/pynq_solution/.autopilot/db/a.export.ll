@@ -1,4 +1,4 @@
-; ModuleID = '/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/pynq_solution/.autopilot/db/a.o.2.bc'
+; ModuleID = '/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/pynq_solution/.autopilot/db/a.o.2.bc'
 target datalayout = "e-p:64:64:64-i1:8:8-i8:8:8-i16:16:16-i32:32:32-i64:64:64-f32:32:32-f64:64:64-v64:64:64-v128:128:128-a0:0:64-s0:64:64-f80:128:128-n8:16:32:64-S128"
 target triple = "x86_64-unknown-linux-gnu"
 
@@ -28,8 +28,8 @@ target triple = "x86_64-unknown-linux-gnu"
 @p_str1861 = private unnamed_addr constant [13 x i8] c"hls_label_21\00", align 1
 @p_str1847 = private unnamed_addr constant [12 x i8] c"channelloop\00", align 1
 @p_str1834 = private unnamed_addr constant [13 x i8] c"hls_label_23\00", align 1
-@p_str1832 = private unnamed_addr constant [13 x i8] c"hls_label_18\00", align 1
-@p_str1824 = private unnamed_addr constant [13 x i8] c"hls_label_20\00", align 1
+@p_str1832 = private unnamed_addr constant [13 x i8] c"hls_label_17\00", align 1
+@p_str1824 = private unnamed_addr constant [13 x i8] c"hls_label_19\00", align 1
 @p_str1820 = private unnamed_addr constant [11 x i8] c"loop_width\00", align 1
 @p_str1819 = private unnamed_addr constant [12 x i8] c"loop_height\00", align 1
 @p_str1813 = private unnamed_addr constant [10 x i8] c"ap_stable\00", align 1

@@ -77,14 +77,14 @@
 						<id>4</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/utils/x_hls_utils.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>211</lineNumber>
 						<contextFuncName>reg&amp;lt;int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item class_id="11" tracking_level="0" version="0">
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second class_id="12" tracking_level="0" version="0">
 									<count>1</count>
 									<item_version>0</item_version>

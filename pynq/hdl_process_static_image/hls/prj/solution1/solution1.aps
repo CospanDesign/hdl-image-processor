@@ -17,10 +17,6 @@
     </clockList>
     <config>
         <config_schedule verbose="1"/>
-        <schedule model="image_filter"/>
     </config>
-    <ExportDesign askAgain="true" evaluate="false" rtl="verilog" formatName="ipcatalog">
-        <Format formatName="ipcatalog"/>
-    </ExportDesign>
 </AutoPilot:solution>
 

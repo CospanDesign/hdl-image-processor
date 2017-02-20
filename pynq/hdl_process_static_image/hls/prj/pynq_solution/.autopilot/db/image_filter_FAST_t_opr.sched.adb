@@ -1512,14 +1512,14 @@
 						<id>58</id>
 						<name>k_buf_val_0_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>220</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item class_id="11" tracking_level="0" version="0">
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second class_id="12" tracking_level="0" version="0">
 									<count>3</count>
 									<item_version>0</item_version>
@@ -1567,14 +1567,14 @@
 						<id>59</id>
 						<name>k_buf_val_1_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>220</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -1622,14 +1622,14 @@
 						<id>60</id>
 						<name>k_buf_val_2_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>220</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -1677,14 +1677,14 @@
 						<id>61</id>
 						<name>k_buf_val_3_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>220</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -1732,14 +1732,14 @@
 						<id>62</id>
 						<name>k_buf_val_4_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>220</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -1787,14 +1787,14 @@
 						<id>63</id>
 						<name>k_buf_val_5_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>220</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -1842,14 +1842,14 @@
 						<id>64</id>
 						<name>core_buf_val_0_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>221</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -1897,14 +1897,14 @@
 						<id>65</id>
 						<name>core_buf_val_1_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>221</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -1952,14 +1952,14 @@
 						<id>72</id>
 						<name>tmp_s</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>242</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2008,14 +2008,14 @@
 						<id>73</id>
 						<name>tmp_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>242</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2064,14 +2064,14 @@
 						<id>74</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>242</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2149,14 +2149,14 @@
 						<id>78</id>
 						<name>exitcond1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>242</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2205,14 +2205,14 @@
 						<id>79</id>
 						<name>i_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>242</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2261,14 +2261,14 @@
 						<id>80</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>242</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2318,14 +2318,14 @@
 						<id>84</id>
 						<name>tmp_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>247</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2374,14 +2374,14 @@
 						<id>85</id>
 						<name>tmp_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>279</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2430,14 +2430,14 @@
 						<id>86</id>
 						<name>tmp_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>296</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2486,14 +2486,14 @@
 						<id>87</id>
 						<name>tmp_9</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>306</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2544,14 +2544,14 @@
 						<id>88</id>
 						<name>icmp</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>306</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -2600,14 +2600,14 @@
 						<id>89</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>243</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -3657,14 +3657,14 @@
 						<id>129</id>
 						<name>exitcond</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>243</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -3713,14 +3713,14 @@
 						<id>130</id>
 						<name>j_V</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>243</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -3769,14 +3769,14 @@
 						<id>131</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>243</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -3826,14 +3826,14 @@
 						<id>136</id>
 						<name>tmp_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>247</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -3882,14 +3882,14 @@
 						<id>137</id>
 						<name>or_cond_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>247</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -3938,14 +3938,14 @@
 						<id>138</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>247</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -3995,14 +3995,14 @@
 						<id>140</id>
 						<name>tmp_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4050,14 +4050,14 @@
 						<id>141</id>
 						<name>k_buf_val_0_V_addr</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4107,14 +4107,14 @@
 						<id>142</id>
 						<name>win_val_0_V_6</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4162,14 +4162,14 @@
 						<id>143</id>
 						<name>k_buf_val_1_V_addr</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4219,14 +4219,14 @@
 						<id>144</id>
 						<name>win_val_1_V_6</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4274,14 +4274,14 @@
 						<id>145</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>256</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4331,14 +4331,14 @@
 						<id>146</id>
 						<name>k_buf_val_2_V_addr</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4388,14 +4388,14 @@
 						<id>147</id>
 						<name>win_val_2_V_6</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4443,14 +4443,14 @@
 						<id>148</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>256</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4500,14 +4500,14 @@
 						<id>149</id>
 						<name>k_buf_val_3_V_addr</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4557,14 +4557,14 @@
 						<id>150</id>
 						<name>win_val_3_V_6</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4612,14 +4612,14 @@
 						<id>151</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>256</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4669,14 +4669,14 @@
 						<id>152</id>
 						<name>k_buf_val_4_V_addr</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4726,14 +4726,14 @@
 						<id>153</id>
 						<name>win_val_4_V_6</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4781,14 +4781,14 @@
 						<id>154</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>256</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4838,14 +4838,14 @@
 						<id>155</id>
 						<name>k_buf_val_5_V_addr</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4895,14 +4895,14 @@
 						<id>156</id>
 						<name>win_val_5_V_6</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -4950,14 +4950,14 @@
 						<id>157</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>256</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5007,14 +5007,14 @@
 						<id>160</id>
 						<name>tmp_55</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>624</lineNumber>
 						<contextFuncName>read</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -5077,14 +5077,14 @@
 						<id>162</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>261</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5134,14 +5134,14 @@
 						<id>163</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>624</lineNumber>
 						<contextFuncName>read</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -5205,14 +5205,14 @@
 						<id>164</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5262,14 +5262,14 @@
 						<id>165</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5319,14 +5319,14 @@
 						<id>166</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5376,14 +5376,14 @@
 						<id>167</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5432,14 +5432,14 @@
 						<id>168</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5489,14 +5489,14 @@
 						<id>169</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5546,14 +5546,14 @@
 						<id>170</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5603,14 +5603,14 @@
 						<id>171</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5660,14 +5660,14 @@
 						<id>172</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5717,14 +5717,14 @@
 						<id>173</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5773,14 +5773,14 @@
 						<id>174</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5830,14 +5830,14 @@
 						<id>175</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5887,14 +5887,14 @@
 						<id>176</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -5944,14 +5944,14 @@
 						<id>177</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6001,14 +6001,14 @@
 						<id>178</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6058,14 +6058,14 @@
 						<id>179</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6115,14 +6115,14 @@
 						<id>180</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6171,14 +6171,14 @@
 						<id>181</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6228,14 +6228,14 @@
 						<id>182</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6285,14 +6285,14 @@
 						<id>183</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6342,14 +6342,14 @@
 						<id>184</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6399,14 +6399,14 @@
 						<id>185</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6456,14 +6456,14 @@
 						<id>186</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6513,14 +6513,14 @@
 						<id>187</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6569,14 +6569,14 @@
 						<id>188</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6626,14 +6626,14 @@
 						<id>189</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6683,14 +6683,14 @@
 						<id>190</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6740,14 +6740,14 @@
 						<id>191</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6797,14 +6797,14 @@
 						<id>192</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6854,14 +6854,14 @@
 						<id>193</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6911,14 +6911,14 @@
 						<id>194</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -6967,14 +6967,14 @@
 						<id>195</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>255</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7024,14 +7024,14 @@
 						<id>196</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7081,14 +7081,14 @@
 						<id>197</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7138,14 +7138,14 @@
 						<id>198</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7195,14 +7195,14 @@
 						<id>199</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7252,14 +7252,14 @@
 						<id>200</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7308,14 +7308,14 @@
 						<id>201</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>253</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7365,14 +7365,14 @@
 						<id>202</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7422,14 +7422,14 @@
 						<id>203</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7479,14 +7479,14 @@
 						<id>204</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7536,14 +7536,14 @@
 						<id>205</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>250</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7592,14 +7592,14 @@
 						<id>206</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>262</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7647,14 +7647,14 @@
 						<id>208</id>
 						<name>tmp_10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>271</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7702,14 +7702,14 @@
 						<id>209</id>
 						<name>core_buf_val_0_V_addr</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>271</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7759,14 +7759,14 @@
 						<id>210</id>
 						<name>core_buf_val_0_V_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>271</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7814,14 +7814,14 @@
 						<id>211</id>
 						<name>core_win_val_0_V_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>271</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7869,14 +7869,14 @@
 						<id>212</id>
 						<name>core_buf_val_1_V_addr</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>271</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7926,14 +7926,14 @@
 						<id>213</id>
 						<name>core_buf_val_1_V_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>271</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7981,14 +7981,14 @@
 						<id>214</id>
 						<name>core_win_val_1_V_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>271</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -8036,14 +8036,14 @@
 						<id>215</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>275</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -8093,14 +8093,14 @@
 						<id>216</id>
 						<name>tmp_11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>279</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -8149,14 +8149,14 @@
 						<id>217</id>
 						<name>or_cond1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>279</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -8205,14 +8205,14 @@
 						<id>218</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>279</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -8262,14 +8262,14 @@
 						<id>220</id>
 						<name>win_val_0_V_2_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8332,14 +8332,14 @@
 						<id>221</id>
 						<name>win_val_0_V_2_1_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8402,14 +8402,14 @@
 						<id>222</id>
 						<name>win_val_0_V_3_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8472,14 +8472,14 @@
 						<id>223</id>
 						<name>win_val_1_V_1_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8542,14 +8542,14 @@
 						<id>224</id>
 						<name>win_val_1_V_4_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8612,14 +8612,14 @@
 						<id>225</id>
 						<name>win_val_2_V_0_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8682,14 +8682,14 @@
 						<id>226</id>
 						<name>win_val_2_V_5_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8752,14 +8752,14 @@
 						<id>227</id>
 						<name>win_val_3_V_0_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8822,14 +8822,14 @@
 						<id>228</id>
 						<name>win_val_3_V_2_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8892,14 +8892,14 @@
 						<id>229</id>
 						<name>win_val_3_V_5_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -8962,14 +8962,14 @@
 						<id>230</id>
 						<name>win_val_4_V_0_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9032,14 +9032,14 @@
 						<id>231</id>
 						<name>win_val_4_V_5_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9102,14 +9102,14 @@
 						<id>232</id>
 						<name>win_val_5_V_1_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9172,14 +9172,14 @@
 						<id>233</id>
 						<name>win_val_5_V_4_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9242,14 +9242,14 @@
 						<id>234</id>
 						<name>win_val_6_V_2_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9312,14 +9312,14 @@
 						<id>235</id>
 						<name>win_val_6_V_2_1_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9382,14 +9382,14 @@
 						<id>236</id>
 						<name>win_val_6_V_3_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9452,14 +9452,14 @@
 						<id>237</id>
 						<name>lhs_V_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9521,14 +9521,14 @@
 						<id>238</id>
 						<name>rhs_V_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9590,14 +9590,14 @@
 						<id>239</id>
 						<name>r_V_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9660,14 +9660,14 @@
 						<id>240</id>
 						<name>flag_d_assign_16_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9729,14 +9729,14 @@
 						<id>241</id>
 						<name>rhs_V_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9798,14 +9798,14 @@
 						<id>242</id>
 						<name>r_V_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9868,14 +9868,14 @@
 						<id>243</id>
 						<name>flag_d_assign_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -9937,14 +9937,14 @@
 						<id>244</id>
 						<name>tmp_55_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>66</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10007,14 +10007,14 @@
 						<id>245</id>
 						<name>tmp_56_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>68</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10077,14 +10077,14 @@
 						<id>246</id>
 						<name>phitmp1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10148,14 +10148,14 @@
 						<id>247</id>
 						<name>tmp_4</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10218,14 +10218,14 @@
 						<id>248</id>
 						<name>flag_val_V_assign_load_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10289,14 +10289,14 @@
 						<id>249</id>
 						<name>tmp_61_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>72</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10359,14 +10359,14 @@
 						<id>250</id>
 						<name>tmp_63_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>74</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10429,14 +10429,14 @@
 						<id>251</id>
 						<name>phitmp11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10500,14 +10500,14 @@
 						<id>252</id>
 						<name>tmp_5</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10570,14 +10570,14 @@
 						<id>253</id>
 						<name>flag_val_V_assign_load_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10641,14 +10641,14 @@
 						<id>254</id>
 						<name>rhs_V_i_49</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10710,14 +10710,14 @@
 						<id>255</id>
 						<name>r_V_i_50</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10780,14 +10780,14 @@
 						<id>256</id>
 						<name>flag_d_assign_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10849,14 +10849,14 @@
 						<id>257</id>
 						<name>rhs_V_1_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10918,14 +10918,14 @@
 						<id>258</id>
 						<name>r_V_1_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -10988,14 +10988,14 @@
 						<id>259</id>
 						<name>flag_d_assign_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11057,14 +11057,14 @@
 						<id>260</id>
 						<name>tmp_55_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>66</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11127,14 +11127,14 @@
 						<id>261</id>
 						<name>tmp_56_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>68</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11197,14 +11197,14 @@
 						<id>262</id>
 						<name>phitmp_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11268,14 +11268,14 @@
 						<id>263</id>
 						<name>tmp_6</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11338,14 +11338,14 @@
 						<id>264</id>
 						<name>flag_val_V_assign_load_1_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11409,14 +11409,14 @@
 						<id>265</id>
 						<name>tmp_61_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>72</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11479,14 +11479,14 @@
 						<id>266</id>
 						<name>tmp_63_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>74</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11549,14 +11549,14 @@
 						<id>267</id>
 						<name>phitmp1_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11620,14 +11620,14 @@
 						<id>268</id>
 						<name>tmp_7</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11690,14 +11690,14 @@
 						<id>269</id>
 						<name>flag_val_V_assign_load_1_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11761,14 +11761,14 @@
 						<id>270</id>
 						<name>rhs_V_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11830,14 +11830,14 @@
 						<id>271</id>
 						<name>r_V_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11900,14 +11900,14 @@
 						<id>272</id>
 						<name>flag_d_assign_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -11969,14 +11969,14 @@
 						<id>273</id>
 						<name>rhs_V_1_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12038,14 +12038,14 @@
 						<id>274</id>
 						<name>r_V_1_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12108,14 +12108,14 @@
 						<id>275</id>
 						<name>flag_d_assign_10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12177,14 +12177,14 @@
 						<id>276</id>
 						<name>tmp_55_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>66</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12247,14 +12247,14 @@
 						<id>277</id>
 						<name>tmp_56_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>68</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12317,14 +12317,14 @@
 						<id>278</id>
 						<name>phitmp_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12388,14 +12388,14 @@
 						<id>279</id>
 						<name>tmp_8</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12458,14 +12458,14 @@
 						<id>280</id>
 						<name>flag_val_V_assign_load_1_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12529,14 +12529,14 @@
 						<id>281</id>
 						<name>tmp_61_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>72</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12599,14 +12599,14 @@
 						<id>282</id>
 						<name>tmp_63_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>74</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12669,14 +12669,14 @@
 						<id>283</id>
 						<name>phitmp1_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12740,14 +12740,14 @@
 						<id>284</id>
 						<name>tmp_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12810,14 +12810,14 @@
 						<id>285</id>
 						<name>flag_val_V_assign_load_1_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12881,14 +12881,14 @@
 						<id>286</id>
 						<name>rhs_V_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -12950,14 +12950,14 @@
 						<id>287</id>
 						<name>r_V_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13020,14 +13020,14 @@
 						<id>288</id>
 						<name>flag_d_assign_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13089,14 +13089,14 @@
 						<id>289</id>
 						<name>rhs_V_1_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13158,14 +13158,14 @@
 						<id>290</id>
 						<name>r_V_1_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13228,14 +13228,14 @@
 						<id>291</id>
 						<name>flag_d_assign_11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13297,14 +13297,14 @@
 						<id>292</id>
 						<name>tmp_55_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>66</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13367,14 +13367,14 @@
 						<id>293</id>
 						<name>tmp_56_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>68</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13437,14 +13437,14 @@
 						<id>294</id>
 						<name>phitmp_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13508,14 +13508,14 @@
 						<id>295</id>
 						<name>tmp_10</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13578,14 +13578,14 @@
 						<id>296</id>
 						<name>flag_val_V_assign_load_1_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13649,14 +13649,14 @@
 						<id>297</id>
 						<name>tmp_61_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>72</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13719,14 +13719,14 @@
 						<id>298</id>
 						<name>tmp_63_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>74</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13789,14 +13789,14 @@
 						<id>299</id>
 						<name>phitmp1_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13860,14 +13860,14 @@
 						<id>300</id>
 						<name>tmp_11</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -13930,14 +13930,14 @@
 						<id>301</id>
 						<name>flag_val_V_assign_load_1_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14001,14 +14001,14 @@
 						<id>302</id>
 						<name>rhs_V_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14070,14 +14070,14 @@
 						<id>303</id>
 						<name>r_V_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14140,14 +14140,14 @@
 						<id>304</id>
 						<name>flag_d_assign_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14209,14 +14209,14 @@
 						<id>305</id>
 						<name>rhs_V_1_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14278,14 +14278,14 @@
 						<id>306</id>
 						<name>r_V_1_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14348,14 +14348,14 @@
 						<id>307</id>
 						<name>flag_d_assign_12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14417,14 +14417,14 @@
 						<id>308</id>
 						<name>tmp_55_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>66</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14487,14 +14487,14 @@
 						<id>309</id>
 						<name>tmp_56_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>68</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14557,14 +14557,14 @@
 						<id>310</id>
 						<name>phitmp_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14628,14 +14628,14 @@
 						<id>311</id>
 						<name>tmp_12</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14698,14 +14698,14 @@
 						<id>312</id>
 						<name>flag_val_V_assign_load_1_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14769,14 +14769,14 @@
 						<id>313</id>
 						<name>tmp_61_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>72</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14839,14 +14839,14 @@
 						<id>314</id>
 						<name>tmp_63_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>74</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14909,14 +14909,14 @@
 						<id>315</id>
 						<name>phitmp1_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -14980,14 +14980,14 @@
 						<id>316</id>
 						<name>tmp_13</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15050,14 +15050,14 @@
 						<id>317</id>
 						<name>flag_val_V_assign_load_1_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15121,14 +15121,14 @@
 						<id>318</id>
 						<name>rhs_V_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15190,14 +15190,14 @@
 						<id>319</id>
 						<name>r_V_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15260,14 +15260,14 @@
 						<id>320</id>
 						<name>flag_d_assign_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15329,14 +15329,14 @@
 						<id>321</id>
 						<name>rhs_V_1_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15398,14 +15398,14 @@
 						<id>322</id>
 						<name>r_V_1_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15468,14 +15468,14 @@
 						<id>323</id>
 						<name>flag_d_assign_13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15537,14 +15537,14 @@
 						<id>324</id>
 						<name>tmp_55_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>66</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15607,14 +15607,14 @@
 						<id>325</id>
 						<name>tmp_56_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>68</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15677,14 +15677,14 @@
 						<id>326</id>
 						<name>phitmp_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15748,14 +15748,14 @@
 						<id>327</id>
 						<name>tmp_14</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15818,14 +15818,14 @@
 						<id>328</id>
 						<name>flag_val_V_assign_load_1_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15889,14 +15889,14 @@
 						<id>329</id>
 						<name>tmp_61_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>72</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -15959,14 +15959,14 @@
 						<id>330</id>
 						<name>tmp_63_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>74</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16029,14 +16029,14 @@
 						<id>331</id>
 						<name>phitmp1_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16100,14 +16100,14 @@
 						<id>332</id>
 						<name>tmp_15</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16170,14 +16170,14 @@
 						<id>333</id>
 						<name>flag_val_V_assign_load_1_10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16241,14 +16241,14 @@
 						<id>334</id>
 						<name>rhs_V_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16310,14 +16310,14 @@
 						<id>335</id>
 						<name>r_V_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16380,14 +16380,14 @@
 						<id>336</id>
 						<name>flag_d_assign_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16449,14 +16449,14 @@
 						<id>337</id>
 						<name>rhs_V_1_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16518,14 +16518,14 @@
 						<id>338</id>
 						<name>r_V_1_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16588,14 +16588,14 @@
 						<id>339</id>
 						<name>flag_d_assign_14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16657,14 +16657,14 @@
 						<id>340</id>
 						<name>tmp_55_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>66</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16727,14 +16727,14 @@
 						<id>341</id>
 						<name>tmp_56_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>68</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16797,14 +16797,14 @@
 						<id>342</id>
 						<name>phitmp_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16868,14 +16868,14 @@
 						<id>343</id>
 						<name>tmp_16</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -16938,14 +16938,14 @@
 						<id>344</id>
 						<name>flag_val_V_assign_load_1_11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17009,14 +17009,14 @@
 						<id>345</id>
 						<name>tmp_61_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>72</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17079,14 +17079,14 @@
 						<id>346</id>
 						<name>tmp_63_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>74</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17149,14 +17149,14 @@
 						<id>347</id>
 						<name>phitmp1_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17220,14 +17220,14 @@
 						<id>348</id>
 						<name>tmp_17</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17290,14 +17290,14 @@
 						<id>349</id>
 						<name>flag_val_V_assign_load_1_12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17361,14 +17361,14 @@
 						<id>350</id>
 						<name>rhs_V_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17430,14 +17430,14 @@
 						<id>351</id>
 						<name>r_V_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17500,14 +17500,14 @@
 						<id>352</id>
 						<name>flag_d_assign_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>61</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17569,14 +17569,14 @@
 						<id>353</id>
 						<name>rhs_V_1_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17638,14 +17638,14 @@
 						<id>354</id>
 						<name>r_V_1_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17708,14 +17708,14 @@
 						<id>355</id>
 						<name>flag_d_assign_15_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>62</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17777,14 +17777,14 @@
 						<id>356</id>
 						<name>tmp_55_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>66</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17847,14 +17847,14 @@
 						<id>357</id>
 						<name>tmp_56_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>68</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17917,14 +17917,14 @@
 						<id>358</id>
 						<name>phitmp_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -17988,14 +17988,14 @@
 						<id>359</id>
 						<name>tmp_18</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -18058,14 +18058,14 @@
 						<id>360</id>
 						<name>flag_val_V_assign_load_1_13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>79</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -18129,14 +18129,14 @@
 						<id>361</id>
 						<name>tmp_61_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>72</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -18199,14 +18199,14 @@
 						<id>362</id>
 						<name>tmp_63_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>74</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -18269,14 +18269,14 @@
 						<id>363</id>
 						<name>phitmp1_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -18340,14 +18340,14 @@
 						<id>364</id>
 						<name>tmp_19</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -18410,14 +18410,14 @@
 						<id>365</id>
 						<name>flag_val_V_assign_load_1_14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>80</lineNumber>
 						<contextFuncName>fast_pixel_diff&amp;lt;16, 7, 25, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -18481,14 +18481,14 @@
 						<id>366</id>
 						<name>tmp_60_0_not_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -18544,14 +18544,14 @@
 						<id>367</id>
 						<name>tmp_62_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -18607,14 +18607,14 @@
 						<id>368</id>
 						<name>or_cond5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -18670,14 +18670,14 @@
 						<id>369</id>
 						<name>tmp_60_1_not_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -18733,14 +18733,14 @@
 						<id>370</id>
 						<name>tmp_62_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -18796,14 +18796,14 @@
 						<id>371</id>
 						<name>or_cond6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -18859,14 +18859,14 @@
 						<id>372</id>
 						<name>tmp_60_2_not_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -18922,14 +18922,14 @@
 						<id>373</id>
 						<name>tmp_62_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -18985,14 +18985,14 @@
 						<id>374</id>
 						<name>or_cond7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19048,14 +19048,14 @@
 						<id>375</id>
 						<name>tmp_60_3_not_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19111,14 +19111,14 @@
 						<id>376</id>
 						<name>tmp_62_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19174,14 +19174,14 @@
 						<id>377</id>
 						<name>or_cond8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19237,14 +19237,14 @@
 						<id>378</id>
 						<name>tmp_60_4_not_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19300,14 +19300,14 @@
 						<id>379</id>
 						<name>tmp_62_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19363,14 +19363,14 @@
 						<id>380</id>
 						<name>or_cond9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19426,14 +19426,14 @@
 						<id>381</id>
 						<name>tmp_60_5_not_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19489,14 +19489,14 @@
 						<id>382</id>
 						<name>tmp_62_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19552,14 +19552,14 @@
 						<id>383</id>
 						<name>or_cond10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19615,14 +19615,14 @@
 						<id>384</id>
 						<name>tmp_60_6_not_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19678,14 +19678,14 @@
 						<id>385</id>
 						<name>tmp_62_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19741,14 +19741,14 @@
 						<id>386</id>
 						<name>or_cond11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19804,14 +19804,14 @@
 						<id>387</id>
 						<name>count_1_i_0_op_op113_op_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19868,14 +19868,14 @@
 						<id>388</id>
 						<name>phitmp44_op_op_cast_i_cast_cas</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19932,14 +19932,14 @@
 						<id>389</id>
 						<name>tmp_35_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -19995,14 +19995,14 @@
 						<id>390</id>
 						<name>count_1_i_2_op_op_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20059,14 +20059,14 @@
 						<id>391</id>
 						<name>phitmp43_op_cast_i_cast_cast</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20123,14 +20123,14 @@
 						<id>392</id>
 						<name>tmp_36_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20186,14 +20186,14 @@
 						<id>393</id>
 						<name>count_1_i_4_op_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20250,14 +20250,14 @@
 						<id>394</id>
 						<name>phitmp3_cast_i_cast_cast</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20314,14 +20314,14 @@
 						<id>395</id>
 						<name>tmp_37_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20377,14 +20377,14 @@
 						<id>396</id>
 						<name>count_1_i_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20441,14 +20441,14 @@
 						<id>397</id>
 						<name>tmp_60_7_not_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20504,14 +20504,14 @@
 						<id>398</id>
 						<name>tmp_62_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20567,14 +20567,14 @@
 						<id>399</id>
 						<name>or_cond12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20630,14 +20630,14 @@
 						<id>400</id>
 						<name>tmp_64_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20693,14 +20693,14 @@
 						<id>401</id>
 						<name>not_or_cond12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20756,14 +20756,14 @@
 						<id>402</id>
 						<name>iscorner_2_i_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20819,14 +20819,14 @@
 						<id>403</id>
 						<name>count_1_i_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20883,14 +20883,14 @@
 						<id>404</id>
 						<name>tmp_60_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -20946,14 +20946,14 @@
 						<id>405</id>
 						<name>or_cond13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21009,14 +21009,14 @@
 						<id>406</id>
 						<name>count_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>170</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21072,14 +21072,14 @@
 						<id>407</id>
 						<name>tmp_64_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21135,14 +21135,14 @@
 						<id>408</id>
 						<name>phitmp4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21198,14 +21198,14 @@
 						<id>409</id>
 						<name>not_or_cond13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21261,14 +21261,14 @@
 						<id>410</id>
 						<name>p_iscorner_0_i_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21324,14 +21324,14 @@
 						<id>411</id>
 						<name>count_1_i_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21388,14 +21388,14 @@
 						<id>412</id>
 						<name>tmp_60_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21451,14 +21451,14 @@
 						<id>413</id>
 						<name>tmp_62_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21514,14 +21514,14 @@
 						<id>414</id>
 						<name>or_cond14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21577,14 +21577,14 @@
 						<id>415</id>
 						<name>tmp_64_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21640,14 +21640,14 @@
 						<id>416</id>
 						<name>not_or_cond14_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21703,14 +21703,14 @@
 						<id>417</id>
 						<name>not_or_cond14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21766,14 +21766,14 @@
 						<id>418</id>
 						<name>p_iscorner_0_i_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21829,14 +21829,14 @@
 						<id>419</id>
 						<name>count_1_i_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21893,14 +21893,14 @@
 						<id>420</id>
 						<name>tmp_60_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -21956,14 +21956,14 @@
 						<id>421</id>
 						<name>tmp_62_i_51</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22019,14 +22019,14 @@
 						<id>422</id>
 						<name>or_cond15_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22082,14 +22082,14 @@
 						<id>423</id>
 						<name>count_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>170</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22145,14 +22145,14 @@
 						<id>424</id>
 						<name>tmp_64_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22208,14 +22208,14 @@
 						<id>425</id>
 						<name>phitmp5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22271,14 +22271,14 @@
 						<id>426</id>
 						<name>not_or_cond15_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22334,14 +22334,14 @@
 						<id>427</id>
 						<name>not_or_cond15_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22397,14 +22397,14 @@
 						<id>428</id>
 						<name>p_iscorner_0_i_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22460,14 +22460,14 @@
 						<id>429</id>
 						<name>count_1_i_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22524,14 +22524,14 @@
 						<id>430</id>
 						<name>tmp_60_10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22587,14 +22587,14 @@
 						<id>431</id>
 						<name>tmp_62_8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22650,14 +22650,14 @@
 						<id>432</id>
 						<name>or_cond16_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22713,14 +22713,14 @@
 						<id>433</id>
 						<name>tmp_64_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22776,14 +22776,14 @@
 						<id>434</id>
 						<name>not_or_cond16_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22839,14 +22839,14 @@
 						<id>435</id>
 						<name>not_or_cond16_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22902,14 +22902,14 @@
 						<id>436</id>
 						<name>p_iscorner_0_i_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -22965,14 +22965,14 @@
 						<id>437</id>
 						<name>count_1_i_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23029,14 +23029,14 @@
 						<id>438</id>
 						<name>tmp_60_11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23092,14 +23092,14 @@
 						<id>439</id>
 						<name>tmp_62_10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23155,14 +23155,14 @@
 						<id>440</id>
 						<name>or_cond17_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23218,14 +23218,14 @@
 						<id>441</id>
 						<name>count_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>170</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23281,14 +23281,14 @@
 						<id>442</id>
 						<name>tmp_64_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23344,14 +23344,14 @@
 						<id>443</id>
 						<name>phitmp6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23407,14 +23407,14 @@
 						<id>444</id>
 						<name>not_or_cond17_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23470,14 +23470,14 @@
 						<id>445</id>
 						<name>not_or_cond17_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23533,14 +23533,14 @@
 						<id>446</id>
 						<name>p_iscorner_0_i_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23596,14 +23596,14 @@
 						<id>447</id>
 						<name>count_1_i_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23660,14 +23660,14 @@
 						<id>448</id>
 						<name>tmp_60_12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23723,14 +23723,14 @@
 						<id>449</id>
 						<name>tmp_62_11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23786,14 +23786,14 @@
 						<id>450</id>
 						<name>or_cond18_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23849,14 +23849,14 @@
 						<id>451</id>
 						<name>tmp_64_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23912,14 +23912,14 @@
 						<id>452</id>
 						<name>not_or_cond18_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -23975,14 +23975,14 @@
 						<id>453</id>
 						<name>not_or_cond18_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24038,14 +24038,14 @@
 						<id>454</id>
 						<name>p_iscorner_0_i_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24101,14 +24101,14 @@
 						<id>455</id>
 						<name>count_1_i_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24165,14 +24165,14 @@
 						<id>456</id>
 						<name>count_1_i_3_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24227,14 +24227,14 @@
 						<id>457</id>
 						<name>tmp_60_13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24290,14 +24290,14 @@
 						<id>458</id>
 						<name>tmp_62_12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24353,14 +24353,14 @@
 						<id>459</id>
 						<name>or_cond19_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24416,14 +24416,14 @@
 						<id>460</id>
 						<name>count_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>170</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24479,14 +24479,14 @@
 						<id>461</id>
 						<name>tmp_64_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24542,14 +24542,14 @@
 						<id>462</id>
 						<name>phitmp7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24605,14 +24605,14 @@
 						<id>463</id>
 						<name>not_or_cond19_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24668,14 +24668,14 @@
 						<id>464</id>
 						<name>not_or_cond19_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24731,14 +24731,14 @@
 						<id>465</id>
 						<name>p_iscorner_0_i_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24794,14 +24794,14 @@
 						<id>466</id>
 						<name>count_1_i_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24858,14 +24858,14 @@
 						<id>467</id>
 						<name>tmp_60_14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24921,14 +24921,14 @@
 						<id>468</id>
 						<name>or_cond20_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -24984,14 +24984,14 @@
 						<id>469</id>
 						<name>tmp_64_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25047,14 +25047,14 @@
 						<id>470</id>
 						<name>not_or_cond20_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25110,14 +25110,14 @@
 						<id>471</id>
 						<name>p_iscorner_0_i_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25173,14 +25173,14 @@
 						<id>472</id>
 						<name>count_1_i_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25237,14 +25237,14 @@
 						<id>473</id>
 						<name>count_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>170</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25300,14 +25300,14 @@
 						<id>474</id>
 						<name>tmp_64_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25363,14 +25363,14 @@
 						<id>475</id>
 						<name>phitmp8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25426,14 +25426,14 @@
 						<id>476</id>
 						<name>not_or_cond5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25489,14 +25489,14 @@
 						<id>477</id>
 						<name>p_iscorner_0_i_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25552,14 +25552,14 @@
 						<id>478</id>
 						<name>count_1_i_10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25616,14 +25616,14 @@
 						<id>479</id>
 						<name>tmp_64_10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25679,14 +25679,14 @@
 						<id>480</id>
 						<name>not_or_cond6_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25742,14 +25742,14 @@
 						<id>481</id>
 						<name>not_or_cond6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25805,14 +25805,14 @@
 						<id>482</id>
 						<name>p_iscorner_0_i_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25868,14 +25868,14 @@
 						<id>483</id>
 						<name>count_1_i_11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25932,14 +25932,14 @@
 						<id>484</id>
 						<name>count_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>170</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -25995,14 +25995,14 @@
 						<id>485</id>
 						<name>tmp_64_11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26058,14 +26058,14 @@
 						<id>486</id>
 						<name>phitmp9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26121,14 +26121,14 @@
 						<id>487</id>
 						<name>not_or_cond7_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26184,14 +26184,14 @@
 						<id>488</id>
 						<name>not_or_cond7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26247,14 +26247,14 @@
 						<id>489</id>
 						<name>p_iscorner_0_i_10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26310,14 +26310,14 @@
 						<id>490</id>
 						<name>count_1_i_12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26374,14 +26374,14 @@
 						<id>491</id>
 						<name>tmp_64_12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26437,14 +26437,14 @@
 						<id>492</id>
 						<name>not_or_cond8_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26500,14 +26500,14 @@
 						<id>493</id>
 						<name>not_or_cond8_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26563,14 +26563,14 @@
 						<id>494</id>
 						<name>p_iscorner_0_i_11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26626,14 +26626,14 @@
 						<id>495</id>
 						<name>count_1_i_13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26690,14 +26690,14 @@
 						<id>496</id>
 						<name>count_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>170</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26753,14 +26753,14 @@
 						<id>497</id>
 						<name>tmp_64_13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26816,14 +26816,14 @@
 						<id>498</id>
 						<name>phitmp10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26879,14 +26879,14 @@
 						<id>499</id>
 						<name>not_or_cond9_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -26942,14 +26942,14 @@
 						<id>500</id>
 						<name>not_or_cond9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27005,14 +27005,14 @@
 						<id>501</id>
 						<name>p_iscorner_0_i_12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27068,14 +27068,14 @@
 						<id>502</id>
 						<name>count_1_i_14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27132,14 +27132,14 @@
 						<id>503</id>
 						<name>tmp_64_14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27195,14 +27195,14 @@
 						<id>504</id>
 						<name>not_or_cond10_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27258,14 +27258,14 @@
 						<id>505</id>
 						<name>not_or_cond10_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27321,14 +27321,14 @@
 						<id>506</id>
 						<name>p_iscorner_0_i_13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27384,14 +27384,14 @@
 						<id>507</id>
 						<name>count_1_i_15_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27448,14 +27448,14 @@
 						<id>508</id>
 						<name>count_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>170</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27511,14 +27511,14 @@
 						<id>509</id>
 						<name>tmp_64_15_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27574,14 +27574,14 @@
 						<id>510</id>
 						<name>phitmp_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>175</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27637,14 +27637,14 @@
 						<id>511</id>
 						<name>not_or_cond11_i_demorgan</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27700,14 +27700,14 @@
 						<id>512</id>
 						<name>not_or_cond11_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27763,14 +27763,14 @@
 						<id>513</id>
 						<name>p_iscorner_0_i_14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27826,14 +27826,14 @@
 						<id>514</id>
 						<name>tmp_64_16_i1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27889,14 +27889,14 @@
 						<id>515</id>
 						<name>tmp</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -27952,14 +27952,14 @@
 						<id>516</id>
 						<name>p_iscorner_0_i_15_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>168</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28015,14 +28015,14 @@
 						<id>517</id>
 						<name>tmp6</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28078,14 +28078,14 @@
 						<id>518</id>
 						<name>tmp7</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28141,14 +28141,14 @@
 						<id>519</id>
 						<name>tmp5</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28204,14 +28204,14 @@
 						<id>520</id>
 						<name>tmp9</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28267,14 +28267,14 @@
 						<id>521</id>
 						<name>tmp10</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28330,14 +28330,14 @@
 						<id>522</id>
 						<name>tmp8</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28393,14 +28393,14 @@
 						<id>523</id>
 						<name>tmp4</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28456,14 +28456,14 @@
 						<id>524</id>
 						<name>tmp13</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28519,14 +28519,14 @@
 						<id>525</id>
 						<name>tmp14</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28582,14 +28582,14 @@
 						<id>526</id>
 						<name>tmp12</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28645,14 +28645,14 @@
 						<id>527</id>
 						<name>tmp16</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28708,14 +28708,14 @@
 						<id>528</id>
 						<name>tmp18</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28771,14 +28771,14 @@
 						<id>529</id>
 						<name>tmp17</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28834,14 +28834,14 @@
 						<id>530</id>
 						<name>tmp15</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28897,14 +28897,14 @@
 						<id>531</id>
 						<name>tmp11</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -28960,14 +28960,14 @@
 						<id>532</id>
 						<name>iscorner_2_i_16_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>171</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -29023,14 +29023,14 @@
 						<id>533</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>181</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -29087,14 +29087,14 @@
 						<id>535</id>
 						<name>tmp_67_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29157,14 +29157,14 @@
 						<id>536</id>
 						<name>tmp_72_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29228,14 +29228,14 @@
 						<id>537</id>
 						<name>tmp_72_1_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29297,14 +29297,14 @@
 						<id>538</id>
 						<name>flag_d_min2_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29367,14 +29367,14 @@
 						<id>539</id>
 						<name>tmp_74_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29437,14 +29437,14 @@
 						<id>540</id>
 						<name>tmp_82_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29508,14 +29508,14 @@
 						<id>541</id>
 						<name>tmp_82_1_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29577,14 +29577,14 @@
 						<id>542</id>
 						<name>flag_d_max2_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29647,14 +29647,14 @@
 						<id>543</id>
 						<name>tmp_67_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29717,14 +29717,14 @@
 						<id>544</id>
 						<name>tmp_72_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29788,14 +29788,14 @@
 						<id>545</id>
 						<name>tmp_72_3_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29857,14 +29857,14 @@
 						<id>546</id>
 						<name>flag_d_min2_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29927,14 +29927,14 @@
 						<id>547</id>
 						<name>tmp_74_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -29997,14 +29997,14 @@
 						<id>548</id>
 						<name>tmp_82_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30068,14 +30068,14 @@
 						<id>549</id>
 						<name>tmp_82_3_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30137,14 +30137,14 @@
 						<id>550</id>
 						<name>flag_d_max2_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30207,14 +30207,14 @@
 						<id>551</id>
 						<name>tmp_67_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30277,14 +30277,14 @@
 						<id>552</id>
 						<name>tmp_72_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30348,14 +30348,14 @@
 						<id>553</id>
 						<name>tmp_72_5_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30417,14 +30417,14 @@
 						<id>554</id>
 						<name>flag_d_min2_5</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30487,14 +30487,14 @@
 						<id>555</id>
 						<name>tmp_74_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30557,14 +30557,14 @@
 						<id>556</id>
 						<name>tmp_82_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30628,14 +30628,14 @@
 						<id>557</id>
 						<name>tmp_82_5_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30697,14 +30697,14 @@
 						<id>558</id>
 						<name>flag_d_max2_5</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30767,14 +30767,14 @@
 						<id>559</id>
 						<name>tmp_67_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30837,14 +30837,14 @@
 						<id>560</id>
 						<name>tmp_72_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30908,14 +30908,14 @@
 						<id>561</id>
 						<name>tmp_72_7_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -30977,14 +30977,14 @@
 						<id>562</id>
 						<name>flag_d_min2_7</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31047,14 +31047,14 @@
 						<id>563</id>
 						<name>tmp_74_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31117,14 +31117,14 @@
 						<id>564</id>
 						<name>tmp_82_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31188,14 +31188,14 @@
 						<id>565</id>
 						<name>tmp_82_7_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31257,14 +31257,14 @@
 						<id>566</id>
 						<name>flag_d_max2_7</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31327,14 +31327,14 @@
 						<id>567</id>
 						<name>tmp_67_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31397,14 +31397,14 @@
 						<id>568</id>
 						<name>tmp_72_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31468,14 +31468,14 @@
 						<id>569</id>
 						<name>tmp_72_9_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31537,14 +31537,14 @@
 						<id>570</id>
 						<name>flag_d_min2_9</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31607,14 +31607,14 @@
 						<id>571</id>
 						<name>tmp_74_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31677,14 +31677,14 @@
 						<id>572</id>
 						<name>tmp_82_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31748,14 +31748,14 @@
 						<id>573</id>
 						<name>tmp_82_9_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31817,14 +31817,14 @@
 						<id>574</id>
 						<name>flag_d_max2_9</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31887,14 +31887,14 @@
 						<id>575</id>
 						<name>tmp_67_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -31957,14 +31957,14 @@
 						<id>576</id>
 						<name>tmp_72_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32028,14 +32028,14 @@
 						<id>577</id>
 						<name>tmp_72_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32097,14 +32097,14 @@
 						<id>578</id>
 						<name>flag_d_min2_11</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32167,14 +32167,14 @@
 						<id>579</id>
 						<name>tmp_74_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32237,14 +32237,14 @@
 						<id>580</id>
 						<name>tmp_82_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32308,14 +32308,14 @@
 						<id>581</id>
 						<name>tmp_82_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32377,14 +32377,14 @@
 						<id>582</id>
 						<name>flag_d_max2_11</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32447,14 +32447,14 @@
 						<id>583</id>
 						<name>tmp_67_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32517,14 +32517,14 @@
 						<id>584</id>
 						<name>tmp_72_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32588,14 +32588,14 @@
 						<id>585</id>
 						<name>tmp_72_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32657,14 +32657,14 @@
 						<id>586</id>
 						<name>flag_d_min2_13</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32727,14 +32727,14 @@
 						<id>587</id>
 						<name>tmp_74_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32797,14 +32797,14 @@
 						<id>588</id>
 						<name>tmp_82_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32868,14 +32868,14 @@
 						<id>589</id>
 						<name>tmp_82_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -32937,14 +32937,14 @@
 						<id>590</id>
 						<name>flag_d_max2_13</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33007,14 +33007,14 @@
 						<id>591</id>
 						<name>tmp_67_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33077,14 +33077,14 @@
 						<id>592</id>
 						<name>tmp_72_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33148,14 +33148,14 @@
 						<id>593</id>
 						<name>tmp_72_4_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33217,14 +33217,14 @@
 						<id>594</id>
 						<name>flag_d_min2_15</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>105</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33287,14 +33287,14 @@
 						<id>595</id>
 						<name>tmp_74_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33357,14 +33357,14 @@
 						<id>596</id>
 						<name>tmp_82_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33428,14 +33428,14 @@
 						<id>597</id>
 						<name>tmp_82_4_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33497,14 +33497,14 @@
 						<id>598</id>
 						<name>flag_d_max2_15</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>106</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33567,14 +33567,14 @@
 						<id>599</id>
 						<name>tmp_71_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33637,14 +33637,14 @@
 						<id>600</id>
 						<name>tmp_79_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33708,14 +33708,14 @@
 						<id>601</id>
 						<name>flag_d_min4_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33778,14 +33778,14 @@
 						<id>602</id>
 						<name>tmp_81_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33848,14 +33848,14 @@
 						<id>603</id>
 						<name>tmp_92_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33919,14 +33919,14 @@
 						<id>604</id>
 						<name>flag_d_max4_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -33989,14 +33989,14 @@
 						<id>605</id>
 						<name>tmp_71_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34059,14 +34059,14 @@
 						<id>606</id>
 						<name>tmp_79_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34130,14 +34130,14 @@
 						<id>607</id>
 						<name>flag_d_min4_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34200,14 +34200,14 @@
 						<id>608</id>
 						<name>tmp_81_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34270,14 +34270,14 @@
 						<id>609</id>
 						<name>tmp_92_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34341,14 +34341,14 @@
 						<id>610</id>
 						<name>flag_d_max4_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34411,14 +34411,14 @@
 						<id>611</id>
 						<name>tmp_71_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34481,14 +34481,14 @@
 						<id>612</id>
 						<name>tmp_79_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34552,14 +34552,14 @@
 						<id>613</id>
 						<name>flag_d_min4_5</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34622,14 +34622,14 @@
 						<id>614</id>
 						<name>tmp_81_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34692,14 +34692,14 @@
 						<id>615</id>
 						<name>tmp_92_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34763,14 +34763,14 @@
 						<id>616</id>
 						<name>flag_d_max4_5</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34833,14 +34833,14 @@
 						<id>617</id>
 						<name>tmp_71_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34903,14 +34903,14 @@
 						<id>618</id>
 						<name>tmp_79_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -34974,14 +34974,14 @@
 						<id>619</id>
 						<name>flag_d_min4_7</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35044,14 +35044,14 @@
 						<id>620</id>
 						<name>tmp_81_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35114,14 +35114,14 @@
 						<id>621</id>
 						<name>tmp_92_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35185,14 +35185,14 @@
 						<id>622</id>
 						<name>flag_d_max4_7</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35255,14 +35255,14 @@
 						<id>623</id>
 						<name>tmp_71_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35325,14 +35325,14 @@
 						<id>624</id>
 						<name>tmp_79_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35396,14 +35396,14 @@
 						<id>625</id>
 						<name>flag_d_min4_9</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35466,14 +35466,14 @@
 						<id>626</id>
 						<name>tmp_81_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35536,14 +35536,14 @@
 						<id>627</id>
 						<name>tmp_92_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35607,14 +35607,14 @@
 						<id>628</id>
 						<name>flag_d_max4_9</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35677,14 +35677,14 @@
 						<id>629</id>
 						<name>tmp_71_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35747,14 +35747,14 @@
 						<id>630</id>
 						<name>tmp_79_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35818,14 +35818,14 @@
 						<id>631</id>
 						<name>flag_d_min4_11</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35888,14 +35888,14 @@
 						<id>632</id>
 						<name>tmp_81_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -35958,14 +35958,14 @@
 						<id>633</id>
 						<name>tmp_92_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36029,14 +36029,14 @@
 						<id>634</id>
 						<name>flag_d_max4_11</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36099,14 +36099,14 @@
 						<id>635</id>
 						<name>tmp_71_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36169,14 +36169,14 @@
 						<id>636</id>
 						<name>tmp_79_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36240,14 +36240,14 @@
 						<id>637</id>
 						<name>flag_d_min4_13</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36310,14 +36310,14 @@
 						<id>638</id>
 						<name>tmp_81_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36380,14 +36380,14 @@
 						<id>639</id>
 						<name>tmp_92_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36451,14 +36451,14 @@
 						<id>640</id>
 						<name>flag_d_max4_13</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36521,14 +36521,14 @@
 						<id>641</id>
 						<name>tmp_71_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36591,14 +36591,14 @@
 						<id>642</id>
 						<name>tmp_79_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36662,14 +36662,14 @@
 						<id>643</id>
 						<name>flag_d_min4_15</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>109</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36732,14 +36732,14 @@
 						<id>644</id>
 						<name>tmp_81_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36802,14 +36802,14 @@
 						<id>645</id>
 						<name>tmp_92_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36873,14 +36873,14 @@
 						<id>646</id>
 						<name>flag_d_max4_15</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>110</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -36943,14 +36943,14 @@
 						<id>647</id>
 						<name>tmp_78_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37013,14 +37013,14 @@
 						<id>648</id>
 						<name>tmp_89_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37084,14 +37084,14 @@
 						<id>649</id>
 						<name>flag_d_min8_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37154,14 +37154,14 @@
 						<id>650</id>
 						<name>tmp_91_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37224,14 +37224,14 @@
 						<id>651</id>
 						<name>tmp_104_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37295,14 +37295,14 @@
 						<id>652</id>
 						<name>flag_d_max8_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37365,14 +37365,14 @@
 						<id>653</id>
 						<name>tmp_78_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37435,14 +37435,14 @@
 						<id>654</id>
 						<name>tmp_89_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37506,14 +37506,14 @@
 						<id>655</id>
 						<name>flag_d_min8_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37576,14 +37576,14 @@
 						<id>656</id>
 						<name>tmp_91_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37646,14 +37646,14 @@
 						<id>657</id>
 						<name>tmp_104_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37717,14 +37717,14 @@
 						<id>658</id>
 						<name>flag_d_max8_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37787,14 +37787,14 @@
 						<id>659</id>
 						<name>tmp_78_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37857,14 +37857,14 @@
 						<id>660</id>
 						<name>tmp_89_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37928,14 +37928,14 @@
 						<id>661</id>
 						<name>flag_d_min8_5</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -37998,14 +37998,14 @@
 						<id>662</id>
 						<name>tmp_91_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38068,14 +38068,14 @@
 						<id>663</id>
 						<name>tmp_104_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38139,14 +38139,14 @@
 						<id>664</id>
 						<name>flag_d_max8_5</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38209,14 +38209,14 @@
 						<id>665</id>
 						<name>tmp_78_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38279,14 +38279,14 @@
 						<id>666</id>
 						<name>tmp_89_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38350,14 +38350,14 @@
 						<id>667</id>
 						<name>flag_d_min8_7</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38420,14 +38420,14 @@
 						<id>668</id>
 						<name>tmp_91_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38490,14 +38490,14 @@
 						<id>669</id>
 						<name>tmp_104_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38561,14 +38561,14 @@
 						<id>670</id>
 						<name>flag_d_max8_7</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38631,14 +38631,14 @@
 						<id>671</id>
 						<name>tmp_78_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38701,14 +38701,14 @@
 						<id>672</id>
 						<name>tmp_89_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38772,14 +38772,14 @@
 						<id>673</id>
 						<name>flag_d_min8_9</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38842,14 +38842,14 @@
 						<id>674</id>
 						<name>tmp_91_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38912,14 +38912,14 @@
 						<id>675</id>
 						<name>tmp_104_9_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -38983,14 +38983,14 @@
 						<id>676</id>
 						<name>flag_d_max8_9</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39053,14 +39053,14 @@
 						<id>677</id>
 						<name>tmp_78_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39123,14 +39123,14 @@
 						<id>678</id>
 						<name>tmp_89_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39194,14 +39194,14 @@
 						<id>679</id>
 						<name>tmp_90_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39264,14 +39264,14 @@
 						<id>680</id>
 						<name>tmp_91_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39334,14 +39334,14 @@
 						<id>681</id>
 						<name>tmp_104_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39405,14 +39405,14 @@
 						<id>682</id>
 						<name>tmp_105_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39475,14 +39475,14 @@
 						<id>683</id>
 						<name>tmp_78_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39545,14 +39545,14 @@
 						<id>684</id>
 						<name>tmp_89_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39616,14 +39616,14 @@
 						<id>685</id>
 						<name>tmp_90_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39686,14 +39686,14 @@
 						<id>686</id>
 						<name>tmp_91_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39756,14 +39756,14 @@
 						<id>687</id>
 						<name>tmp_104_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39827,14 +39827,14 @@
 						<id>688</id>
 						<name>tmp_105_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39897,14 +39897,14 @@
 						<id>689</id>
 						<name>tmp_78_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -39967,14 +39967,14 @@
 						<id>690</id>
 						<name>tmp_89_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40038,14 +40038,14 @@
 						<id>691</id>
 						<name>tmp_90_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>114</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40108,14 +40108,14 @@
 						<id>692</id>
 						<name>tmp_91_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40178,14 +40178,14 @@
 						<id>693</id>
 						<name>tmp_104_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40249,14 +40249,14 @@
 						<id>694</id>
 						<name>tmp_105_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>115</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40319,14 +40319,14 @@
 						<id>695</id>
 						<name>tmp_88_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40389,14 +40389,14 @@
 						<id>696</id>
 						<name>flag_d_min8_1_0_flag_d_assign_s</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40460,14 +40460,14 @@
 						<id>697</id>
 						<name>tmp_20</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40529,14 +40529,14 @@
 						<id>698</id>
 						<name>tmp_96_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40599,14 +40599,14 @@
 						<id>699</id>
 						<name>p_flag_d_min8_1_0_flag_d_assign</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40670,14 +40670,14 @@
 						<id>700</id>
 						<name>p_flag_d_min8_1_0_flag_d_assign_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40739,14 +40739,14 @@
 						<id>701</id>
 						<name>tmp_110_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40809,14 +40809,14 @@
 						<id>702</id>
 						<name>flag_d_min8_1_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40880,14 +40880,14 @@
 						<id>703</id>
 						<name>tmp_21</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -40949,14 +40949,14 @@
 						<id>704</id>
 						<name>tmp_112_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41019,14 +41019,14 @@
 						<id>705</id>
 						<name>sel_SEBB_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41090,14 +41090,14 @@
 						<id>706</id>
 						<name>sel_SEBB_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41159,14 +41159,14 @@
 						<id>707</id>
 						<name>tmp_88_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41229,14 +41229,14 @@
 						<id>708</id>
 						<name>flag_d_min8_3_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41300,14 +41300,14 @@
 						<id>709</id>
 						<name>tmp_22</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41369,14 +41369,14 @@
 						<id>710</id>
 						<name>tmp_96_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41439,14 +41439,14 @@
 						<id>711</id>
 						<name>flag_d_min8_3_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41510,14 +41510,14 @@
 						<id>712</id>
 						<name>a0_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41579,14 +41579,14 @@
 						<id>713</id>
 						<name>tmp_110_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41649,14 +41649,14 @@
 						<id>714</id>
 						<name>flag_d_min8_3_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41720,14 +41720,14 @@
 						<id>715</id>
 						<name>tmp_23</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41789,14 +41789,14 @@
 						<id>716</id>
 						<name>tmp_112_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41859,14 +41859,14 @@
 						<id>717</id>
 						<name>a0_flag_d_min8_3_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41930,14 +41930,14 @@
 						<id>718</id>
 						<name>a0_flag_d_min8_3_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -41999,14 +41999,14 @@
 						<id>719</id>
 						<name>tmp_88_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42069,14 +42069,14 @@
 						<id>720</id>
 						<name>flag_d_min8_5_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42140,14 +42140,14 @@
 						<id>721</id>
 						<name>tmp_24</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42209,14 +42209,14 @@
 						<id>722</id>
 						<name>tmp_96_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42279,14 +42279,14 @@
 						<id>723</id>
 						<name>flag_d_min8_5_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42350,14 +42350,14 @@
 						<id>724</id>
 						<name>a0_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42419,14 +42419,14 @@
 						<id>725</id>
 						<name>tmp_110_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42489,14 +42489,14 @@
 						<id>726</id>
 						<name>flag_d_min8_5_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42560,14 +42560,14 @@
 						<id>727</id>
 						<name>tmp_25</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42629,14 +42629,14 @@
 						<id>728</id>
 						<name>tmp_112_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42699,14 +42699,14 @@
 						<id>729</id>
 						<name>a0_2_flag_d_min8_5_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42770,14 +42770,14 @@
 						<id>730</id>
 						<name>a0_2_flag_d_min8_5_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42839,14 +42839,14 @@
 						<id>731</id>
 						<name>tmp_88_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42909,14 +42909,14 @@
 						<id>732</id>
 						<name>flag_d_min8_7_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -42980,14 +42980,14 @@
 						<id>733</id>
 						<name>tmp_26</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43049,14 +43049,14 @@
 						<id>734</id>
 						<name>tmp_96_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43119,14 +43119,14 @@
 						<id>735</id>
 						<name>flag_d_min8_7_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43190,14 +43190,14 @@
 						<id>736</id>
 						<name>a0_3_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43259,14 +43259,14 @@
 						<id>737</id>
 						<name>tmp_110_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43329,14 +43329,14 @@
 						<id>738</id>
 						<name>flag_d_min8_7_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43400,14 +43400,14 @@
 						<id>739</id>
 						<name>tmp_27</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43469,14 +43469,14 @@
 						<id>740</id>
 						<name>tmp_112_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43539,14 +43539,14 @@
 						<id>741</id>
 						<name>a0_3_flag_d_min8_7_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43610,14 +43610,14 @@
 						<id>742</id>
 						<name>a0_3_flag_d_min8_7_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43679,14 +43679,14 @@
 						<id>743</id>
 						<name>tmp_88_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43749,14 +43749,14 @@
 						<id>744</id>
 						<name>flag_d_min8_9_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43820,14 +43820,14 @@
 						<id>745</id>
 						<name>tmp_28</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43889,14 +43889,14 @@
 						<id>746</id>
 						<name>tmp_96_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -43959,14 +43959,14 @@
 						<id>747</id>
 						<name>flag_d_min8_9_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44030,14 +44030,14 @@
 						<id>748</id>
 						<name>a0_4_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44099,14 +44099,14 @@
 						<id>749</id>
 						<name>tmp_110_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44169,14 +44169,14 @@
 						<id>750</id>
 						<name>flag_d_min8_9_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44240,14 +44240,14 @@
 						<id>751</id>
 						<name>tmp_29</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44309,14 +44309,14 @@
 						<id>752</id>
 						<name>tmp_112_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44379,14 +44379,14 @@
 						<id>753</id>
 						<name>a0_4_flag_d_min8_9_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44450,14 +44450,14 @@
 						<id>754</id>
 						<name>a0_4_flag_d_min8_9_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44519,14 +44519,14 @@
 						<id>755</id>
 						<name>tmp_88_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44589,14 +44589,14 @@
 						<id>756</id>
 						<name>tmp_95_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44660,14 +44660,14 @@
 						<id>757</id>
 						<name>tmp_30</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44729,14 +44729,14 @@
 						<id>758</id>
 						<name>tmp_96_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44799,14 +44799,14 @@
 						<id>759</id>
 						<name>a0_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44870,14 +44870,14 @@
 						<id>760</id>
 						<name>a0_5_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -44939,14 +44939,14 @@
 						<id>761</id>
 						<name>tmp_110_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45009,14 +45009,14 @@
 						<id>762</id>
 						<name>tmp_111_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45080,14 +45080,14 @@
 						<id>763</id>
 						<name>tmp_31</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45149,14 +45149,14 @@
 						<id>764</id>
 						<name>tmp_112_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45219,14 +45219,14 @@
 						<id>765</id>
 						<name>a0_5_tmp_111_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45290,14 +45290,14 @@
 						<id>766</id>
 						<name>a0_5_tmp_111_5_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45359,14 +45359,14 @@
 						<id>767</id>
 						<name>tmp_88_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45429,14 +45429,14 @@
 						<id>768</id>
 						<name>tmp_95_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45500,14 +45500,14 @@
 						<id>769</id>
 						<name>tmp_32</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45569,14 +45569,14 @@
 						<id>770</id>
 						<name>tmp_96_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45639,14 +45639,14 @@
 						<id>771</id>
 						<name>a0_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45710,14 +45710,14 @@
 						<id>772</id>
 						<name>a0_6_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45779,14 +45779,14 @@
 						<id>773</id>
 						<name>tmp_110_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45849,14 +45849,14 @@
 						<id>774</id>
 						<name>tmp_111_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45920,14 +45920,14 @@
 						<id>775</id>
 						<name>tmp_33</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -45989,14 +45989,14 @@
 						<id>776</id>
 						<name>tmp_112_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46059,14 +46059,14 @@
 						<id>777</id>
 						<name>a0_6_tmp_111_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46130,14 +46130,14 @@
 						<id>778</id>
 						<name>a0_6_tmp_111_6_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46199,14 +46199,14 @@
 						<id>779</id>
 						<name>tmp_88_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46269,14 +46269,14 @@
 						<id>780</id>
 						<name>tmp_95_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46340,14 +46340,14 @@
 						<id>781</id>
 						<name>tmp_34</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46409,14 +46409,14 @@
 						<id>782</id>
 						<name>tmp_96_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46479,14 +46479,14 @@
 						<id>783</id>
 						<name>a0_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46550,14 +46550,14 @@
 						<id>784</id>
 						<name>a0_7_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>131</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46619,14 +46619,14 @@
 						<id>785</id>
 						<name>tmp_110_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46689,14 +46689,14 @@
 						<id>786</id>
 						<name>tmp_111_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46760,14 +46760,14 @@
 						<id>787</id>
 						<name>tmp_35</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46829,14 +46829,14 @@
 						<id>788</id>
 						<name>tmp_112_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46899,14 +46899,14 @@
 						<id>789</id>
 						<name>a0_7_tmp_111_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -46970,14 +46970,14 @@
 						<id>790</id>
 						<name>a0_7_tmp_111_7_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>132</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47039,14 +47039,14 @@
 						<id>791</id>
 						<name>tmp_100_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47109,14 +47109,14 @@
 						<id>792</id>
 						<name>flag_d_max8_1_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47180,14 +47180,14 @@
 						<id>793</id>
 						<name>tmp_36</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47249,14 +47249,14 @@
 						<id>794</id>
 						<name>tmp_107_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47319,14 +47319,14 @@
 						<id>795</id>
 						<name>flag_d_max8_1_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47390,14 +47390,14 @@
 						<id>796</id>
 						<name>b0_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47459,14 +47459,14 @@
 						<id>797</id>
 						<name>tmp_115_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47529,14 +47529,14 @@
 						<id>798</id>
 						<name>flag_d_max8_1_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47600,14 +47600,14 @@
 						<id>799</id>
 						<name>tmp_37</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47669,14 +47669,14 @@
 						<id>800</id>
 						<name>tmp_119_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47739,14 +47739,14 @@
 						<id>801</id>
 						<name>b0_flag_d_max8_1_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47810,14 +47810,14 @@
 						<id>802</id>
 						<name>b0_flag_d_max8_1_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47879,14 +47879,14 @@
 						<id>803</id>
 						<name>tmp_100_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -47949,14 +47949,14 @@
 						<id>804</id>
 						<name>flag_d_max8_3_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48020,14 +48020,14 @@
 						<id>805</id>
 						<name>tmp_38</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48089,14 +48089,14 @@
 						<id>806</id>
 						<name>tmp_107_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48159,14 +48159,14 @@
 						<id>807</id>
 						<name>flag_d_max8_3_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48230,14 +48230,14 @@
 						<id>808</id>
 						<name>b0_cast_i_52</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48299,14 +48299,14 @@
 						<id>809</id>
 						<name>tmp_115_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48369,14 +48369,14 @@
 						<id>810</id>
 						<name>flag_d_max8_3_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48440,14 +48440,14 @@
 						<id>811</id>
 						<name>tmp_39</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48509,14 +48509,14 @@
 						<id>812</id>
 						<name>tmp_119_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48579,14 +48579,14 @@
 						<id>813</id>
 						<name>b0_flag_d_max8_3_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48650,14 +48650,14 @@
 						<id>814</id>
 						<name>b0_flag_d_max8_3_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48719,14 +48719,14 @@
 						<id>815</id>
 						<name>tmp_100_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48789,14 +48789,14 @@
 						<id>816</id>
 						<name>flag_d_max8_5_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48860,14 +48860,14 @@
 						<id>817</id>
 						<name>tmp_40</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48929,14 +48929,14 @@
 						<id>818</id>
 						<name>tmp_107_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -48999,14 +48999,14 @@
 						<id>819</id>
 						<name>flag_d_max8_5_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49070,14 +49070,14 @@
 						<id>820</id>
 						<name>b0_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49139,14 +49139,14 @@
 						<id>821</id>
 						<name>tmp_115_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49209,14 +49209,14 @@
 						<id>822</id>
 						<name>flag_d_max8_5_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49280,14 +49280,14 @@
 						<id>823</id>
 						<name>tmp_41</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49349,14 +49349,14 @@
 						<id>824</id>
 						<name>tmp_119_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49419,14 +49419,14 @@
 						<id>825</id>
 						<name>b0_2_flag_d_max8_5_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49490,14 +49490,14 @@
 						<id>826</id>
 						<name>b0_2_flag_d_max8_5_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49559,14 +49559,14 @@
 						<id>827</id>
 						<name>tmp_100_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49629,14 +49629,14 @@
 						<id>828</id>
 						<name>flag_d_max8_7_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49700,14 +49700,14 @@
 						<id>829</id>
 						<name>tmp_42</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49769,14 +49769,14 @@
 						<id>830</id>
 						<name>tmp_107_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49839,14 +49839,14 @@
 						<id>831</id>
 						<name>flag_d_max8_7_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49910,14 +49910,14 @@
 						<id>832</id>
 						<name>b0_3_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -49979,14 +49979,14 @@
 						<id>833</id>
 						<name>tmp_115_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50049,14 +50049,14 @@
 						<id>834</id>
 						<name>flag_d_max8_7_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50120,14 +50120,14 @@
 						<id>835</id>
 						<name>tmp_43</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50189,14 +50189,14 @@
 						<id>836</id>
 						<name>tmp_119_3_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50259,14 +50259,14 @@
 						<id>837</id>
 						<name>b0_3_flag_d_max8_7_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50330,14 +50330,14 @@
 						<id>838</id>
 						<name>b0_3_flag_d_max8_7_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50399,14 +50399,14 @@
 						<id>839</id>
 						<name>tmp_100_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50469,14 +50469,14 @@
 						<id>840</id>
 						<name>flag_d_max8_9_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50540,14 +50540,14 @@
 						<id>841</id>
 						<name>tmp_44</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50609,14 +50609,14 @@
 						<id>842</id>
 						<name>tmp_107_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50679,14 +50679,14 @@
 						<id>843</id>
 						<name>flag_d_max8_9_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50750,14 +50750,14 @@
 						<id>844</id>
 						<name>b0_4_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50819,14 +50819,14 @@
 						<id>845</id>
 						<name>tmp_115_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50889,14 +50889,14 @@
 						<id>846</id>
 						<name>flag_d_max8_9_3</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -50960,14 +50960,14 @@
 						<id>847</id>
 						<name>tmp_45</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51029,14 +51029,14 @@
 						<id>848</id>
 						<name>tmp_119_4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51099,14 +51099,14 @@
 						<id>849</id>
 						<name>b0_4_flag_d_max8_9_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51170,14 +51170,14 @@
 						<id>850</id>
 						<name>b0_4_flag_d_max8_9_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51239,14 +51239,14 @@
 						<id>851</id>
 						<name>tmp_100_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51309,14 +51309,14 @@
 						<id>852</id>
 						<name>tmp_106_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51380,14 +51380,14 @@
 						<id>853</id>
 						<name>tmp_46</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51449,14 +51449,14 @@
 						<id>854</id>
 						<name>tmp_107_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51519,14 +51519,14 @@
 						<id>855</id>
 						<name>b0_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51590,14 +51590,14 @@
 						<id>856</id>
 						<name>b0_5_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51659,14 +51659,14 @@
 						<id>857</id>
 						<name>tmp_115_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51729,14 +51729,14 @@
 						<id>858</id>
 						<name>tmp_118_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51800,14 +51800,14 @@
 						<id>859</id>
 						<name>tmp_47</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51869,14 +51869,14 @@
 						<id>860</id>
 						<name>tmp_119_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -51939,14 +51939,14 @@
 						<id>861</id>
 						<name>b0_5_tmp_118_5_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52010,14 +52010,14 @@
 						<id>862</id>
 						<name>b0_5_tmp_118_5_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52079,14 +52079,14 @@
 						<id>863</id>
 						<name>tmp_100_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52149,14 +52149,14 @@
 						<id>864</id>
 						<name>tmp_106_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52220,14 +52220,14 @@
 						<id>865</id>
 						<name>tmp_48</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52289,14 +52289,14 @@
 						<id>866</id>
 						<name>tmp_107_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52359,14 +52359,14 @@
 						<id>867</id>
 						<name>b0_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52430,14 +52430,14 @@
 						<id>868</id>
 						<name>b0_6_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52499,14 +52499,14 @@
 						<id>869</id>
 						<name>tmp_115_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52569,14 +52569,14 @@
 						<id>870</id>
 						<name>tmp_118_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52640,14 +52640,14 @@
 						<id>871</id>
 						<name>tmp_49</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52709,14 +52709,14 @@
 						<id>872</id>
 						<name>tmp_119_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52779,14 +52779,14 @@
 						<id>873</id>
 						<name>b0_6_tmp_118_6_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52850,14 +52850,14 @@
 						<id>874</id>
 						<name>b0_6_tmp_118_6_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52919,14 +52919,14 @@
 						<id>875</id>
 						<name>tmp_100_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -52989,14 +52989,14 @@
 						<id>876</id>
 						<name>tmp_106_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53060,14 +53060,14 @@
 						<id>877</id>
 						<name>tmp_50</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53129,14 +53129,14 @@
 						<id>878</id>
 						<name>tmp_107_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53199,14 +53199,14 @@
 						<id>879</id>
 						<name>b0_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53270,14 +53270,14 @@
 						<id>880</id>
 						<name>b0_7_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>144</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53339,14 +53339,14 @@
 						<id>881</id>
 						<name>tmp_115_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53409,14 +53409,14 @@
 						<id>882</id>
 						<name>tmp_118_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53480,14 +53480,14 @@
 						<id>883</id>
 						<name>tmp_51</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53549,14 +53549,14 @@
 						<id>884</id>
 						<name>tmp_119_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53619,14 +53619,14 @@
 						<id>885</id>
 						<name>b0_7_tmp_118_7_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53690,14 +53690,14 @@
 						<id>886</id>
 						<name>tmp_12_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>147</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53760,14 +53760,14 @@
 						<id>887</id>
 						<name>tmp_52</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>147</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53829,14 +53829,14 @@
 						<id>888</id>
 						<name>tmp_13_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>147</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53899,14 +53899,14 @@
 						<id>889</id>
 						<name>tmp_40_v_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>147</lineNumber>
 						<contextFuncName>coreScore&amp;lt;16, 25, int, ap_uint&amp;lt;8&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -53970,14 +53970,14 @@
 						<id>890</id>
 						<name>phitmp2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>183</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54033,14 +54033,14 @@
 						<id>891</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>183</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54095,14 +54095,14 @@
 						<id>893</id>
 						<name>core_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>183</lineNumber>
 						<contextFuncName>fast_judge&amp;lt;16, 7, ap_uint&amp;lt;8&amp;gt;, int&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54162,14 +54162,14 @@
 						<id>894</id>
 						<name>core_win_val_2_V_1_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>200</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54224,14 +54224,14 @@
 						<id>895</id>
 						<name>core_win_val_2_V_0_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>200</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54286,14 +54286,14 @@
 						<id>896</id>
 						<name>core_win_val_1_V_1_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>205</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54348,14 +54348,14 @@
 						<id>897</id>
 						<name>core_win_val_1_V_0_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>205</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54410,14 +54410,14 @@
 						<id>898</id>
 						<name>core_win_val_0_V_1_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>194</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54472,14 +54472,14 @@
 						<id>899</id>
 						<name>core_win_val_0_V_0_load</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>194</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54534,14 +54534,14 @@
 						<id>900</id>
 						<name>core_win_val_2_V_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>294</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -54591,14 +54591,14 @@
 						<id>901</id>
 						<name>core_win_val_2_V_2_cast_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>294</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -54646,14 +54646,14 @@
 						<id>902</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>295</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -54703,14 +54703,14 @@
 						<id>903</id>
 						<name>tmp_14_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>296</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -54759,14 +54759,14 @@
 						<id>904</id>
 						<name>tmp_15_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>296</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -54815,14 +54815,14 @@
 						<id>905</id>
 						<name>tmp_121_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>194</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54878,14 +54878,14 @@
 						<id>906</id>
 						<name>tmp_121_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>194</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -54941,14 +54941,14 @@
 						<id>907</id>
 						<name>tmp_121_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>194</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -55004,14 +55004,14 @@
 						<id>908</id>
 						<name>tmp_124_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>200</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -55067,14 +55067,14 @@
 						<id>909</id>
 						<name>tmp_124_1_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>200</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -55130,14 +55130,14 @@
 						<id>910</id>
 						<name>tmp_124_2_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>200</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -55193,14 +55193,14 @@
 						<id>911</id>
 						<name>tmp_16_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>205</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -55256,14 +55256,14 @@
 						<id>912</id>
 						<name>tmp_17_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>205</lineNumber>
 						<contextFuncName>fast_nonmax&amp;lt;3, ap_int&amp;lt;16&amp;gt; &amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>4</count>
 									<item_version>0</item_version>
@@ -55319,14 +55319,14 @@
 						<id>913</id>
 						<name>tmp20</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55389,14 +55389,14 @@
 						<id>914</id>
 						<name>tmp22</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55459,14 +55459,14 @@
 						<id>915</id>
 						<name>tmp21</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55529,14 +55529,14 @@
 						<id>916</id>
 						<name>tmp19</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55599,14 +55599,14 @@
 						<id>917</id>
 						<name>tmp25</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55669,14 +55669,14 @@
 						<id>918</id>
 						<name>tmp24</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55739,14 +55739,14 @@
 						<id>919</id>
 						<name>tmp27</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55809,14 +55809,14 @@
 						<id>920</id>
 						<name>tmp26</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55879,14 +55879,14 @@
 						<id>921</id>
 						<name>tmp23</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -55949,14 +55949,14 @@
 						<id>922</id>
 						<name>tmp_2</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -56019,14 +56019,14 @@
 						<id>923</id>
 						<name>tmp_54</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>306</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56076,14 +56076,14 @@
 						<id>924</id>
 						<name>tmp_53</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>306</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56134,14 +56134,14 @@
 						<id>925</id>
 						<name>icmp1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>306</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56190,14 +56190,14 @@
 						<id>926</id>
 						<name>or_cond4_i</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>306</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56246,14 +56246,14 @@
 						<id>927</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>306</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56303,14 +56303,14 @@
 						<id>931</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_core.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>648</lineNumber>
 						<contextFuncName>write</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>5</count>
 									<item_version>0</item_version>
@@ -56374,14 +56374,14 @@
 						<id>933</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>309</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56429,14 +56429,14 @@
 						<id>935</id>
 						<name>core_win_val_2_V_1_load_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>268</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56484,14 +56484,14 @@
 						<id>936</id>
 						<name>core_win_val_1_V_1_load_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>268</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56539,14 +56539,14 @@
 						<id>937</id>
 						<name>core_win_val_0_V_1_load_1</name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>268</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56594,14 +56594,14 @@
 						<id>939</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>268</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56651,14 +56651,14 @@
 						<id>940</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>271</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56709,14 +56709,14 @@
 						<id>941</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>268</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56766,14 +56766,14 @@
 						<id>942</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>274</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56824,14 +56824,14 @@
 						<id>943</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>268</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56881,14 +56881,14 @@
 						<id>944</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>294</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56939,14 +56939,14 @@
 						<id>945</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>243</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -56994,14 +56994,14 @@
 						<id>948</id>
 						<name></name>
 						<fileName>/home/cospan/Projects/Xilinx/Vivado_HLS/2016.1/common/technology/autopilot/hls/hls_video_fast.h</fileName>
-						<fileDirectory>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</fileDirectory>
+						<fileDirectory>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</fileDirectory>
 						<lineNumber>242</lineNumber>
 						<contextFuncName>FAST_t_opr&amp;lt;16, 7, 0, 1080, 1920&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+								<first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -76865,26 +76865,6 @@
 			<pipe_depth>0</pipe_depth>
 		</item>
 		<item class_id_reference="33" object_id="_2817">
-			<region_name>hls_label_23</region_name>
-			<basic_blocks>
-				<count>1</count>
-				<item_version>0</item_version>
-				<item>207</item>
-			</basic_blocks>
-			<nodes>
-				<count>4</count>
-				<item_version>0</item_version>
-				<item>158</item>
-				<item>159</item>
-				<item>160</item>
-				<item>161</item>
-			</nodes>
-			<anchor_node>158</anchor_node>
-			<region_type>1</region_type>
-			<interval>0</interval>
-			<pipe_depth>0</pipe_depth>
-		</item>
-		<item class_id_reference="33" object_id="_2818">
 			<region_name>loop_width</region_name>
 			<basic_blocks>
 				<count>9</count>
@@ -76907,6 +76887,26 @@
 			<region_type>8</region_type>
 			<interval>1</interval>
 			<pipe_depth>34</pipe_depth>
+		</item>
+		<item class_id_reference="33" object_id="_2818">
+			<region_name>hls_label_23</region_name>
+			<basic_blocks>
+				<count>1</count>
+				<item_version>0</item_version>
+				<item>207</item>
+			</basic_blocks>
+			<nodes>
+				<count>4</count>
+				<item_version>0</item_version>
+				<item>158</item>
+				<item>159</item>
+				<item>160</item>
+				<item>161</item>
+			</nodes>
+			<anchor_node>158</anchor_node>
+			<region_type>1</region_type>
+			<interval>0</interval>
+			<pipe_depth>0</pipe_depth>
 		</item>
 	</regions>
 	<dp_fu_nodes class_id="34" tracking_level="0" version="0">

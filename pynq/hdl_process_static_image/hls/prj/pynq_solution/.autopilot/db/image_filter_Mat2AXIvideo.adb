@@ -419,7 +419,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item class_id="11" tracking_level="0" version="0">
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second class_id="12" tracking_level="0" version="0">
                     <count>2</count>
                     <item_version>0</item_version>
@@ -496,7 +496,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -574,7 +574,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -623,7 +623,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -672,7 +672,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -722,7 +722,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -800,7 +800,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -849,7 +849,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -898,7 +898,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -948,7 +948,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -997,7 +997,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1046,7 +1046,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>4</count>
                     <item_version>0</item_version>
@@ -1109,7 +1109,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>4</count>
                     <item_version>0</item_version>
@@ -1172,7 +1172,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -1229,7 +1229,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1321,7 +1321,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1369,7 +1369,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners</first>
+                  <first>/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3658,7 +3658,7 @@
         <pipe_depth>2</pipe_depth>
       </item>
       <item class_id_reference="50" object_id="_183">
-        <region_name>hls_label_20</region_name>
+        <region_name>hls_label_19</region_name>
         <basic_blocks>
           <count>1</count>
           <item_version>0</item_version>

@@ -6,9 +6,9 @@
 open_project prj
 set_top image_filter
 add_files top.cpp
-add_files -tb test.cpp
+add_files -tb test_1080p.bmp
 add_files -tb opencv_top.cpp
-add_files -tb ../common/images/test_1080p.bmp
+add_files -tb test.cpp
 open_solution "solution1"
 set_part {xc7z020clg484-1}
 create_clock -period 150MHz -name default

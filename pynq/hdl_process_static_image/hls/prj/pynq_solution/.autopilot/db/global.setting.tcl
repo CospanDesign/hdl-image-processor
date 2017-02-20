@@ -43,8 +43,8 @@ set SCTraceOption "all"
 set TargetInfo "xc7z020:clg400:-1"
 set SourceFiles {sc {} c ../../top.cpp}
 set SourceFlags {sc {} c {{}}}
-set DirectiveFile {/home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/pynq_solution/pynq_solution.directive}
-set TBFiles {verilog {../../test.cpp ../../opencv_top.cpp ../../../common/images/test_1080p.bmp} bc {../../test.cpp ../../opencv_top.cpp ../../../common/images/test_1080p.bmp} vhdl {../../test.cpp ../../opencv_top.cpp ../../../common/images/test_1080p.bmp} sc {../../test.cpp ../../opencv_top.cpp ../../../common/images/test_1080p.bmp} cas {../../test.cpp ../../opencv_top.cpp ../../../common/images/test_1080p.bmp} c {}}
+set DirectiveFile {/home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/pynq_solution/pynq_solution.directive}
+set TBFiles {verilog {../../test.cpp ../../opencv_top.cpp} bc {../../test.cpp ../../opencv_top.cpp} vhdl {../../test.cpp ../../opencv_top.cpp} sc {../../test.cpp ../../opencv_top.cpp} cas {../../test.cpp ../../opencv_top.cpp} c {}}
 set SpecLanguage "C"
 set TVInFiles {bc {} c {} sc {} cas {} vhdl {} verilog {}}
 set TVOutFiles {bc {} c {} sc {} cas {} vhdl {} verilog {}}
@@ -53,7 +53,7 @@ set TBInstNames {verilog {} bc {} vhdl {} sc {} cas {} c {}}
 set ExtraGlobalOptions {"area_timing" 1 "clock_gate" 1 "impl_flow" map "power_gate" 0}
 set PlatformFiles {{DefaultPlatform {xilinx/zynq/zynq xilinx/zynq/zynq_fpv6}}}
 set DefaultPlatform "DefaultPlatform"
-set TBTVFileNotFound ""
+set TBTVFileNotFound "../../test_1080p.bmp"
 set AppFile "../vivado_hls.app"
 set ApsFile "pynq_solution.aps"
 set AvePath "../.."

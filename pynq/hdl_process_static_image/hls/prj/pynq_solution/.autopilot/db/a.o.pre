@@ -1,4 +1,4 @@
 #!/bin/sh
 lli=${LLVMINTERP-lli}
 exec $lli \
-    /home/cospan/Projects/xilinx_projects/XAPP1167_2014.4/apps/fast-corners/prj/pynq_solution/.autopilot/db/a.o.pre.bc ${1+"$@"}
+    /home/cospan/Projects/xilinx_projects/hdl_image_processing/pynq/hdl_process_static_image/hls/prj/pynq_solution/.autopilot/db/a.o.pre.bc ${1+"$@"}

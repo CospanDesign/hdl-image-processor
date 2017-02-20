@@ -6,15 +6,15 @@
 open_project prj
 set_top image_filter
 add_files top.cpp
-add_files -tb test.cpp
+add_files -tb test_1080p.bmp
 add_files -tb opencv_top.cpp
-add_files -tb ../common/images/test_1080p.bmp
+add_files -tb test.cpp
 open_solution "pynq_solution"
 set_part {xc7z020clg400-1} -tool vivado
-create_clock -period 142.857132MHz -name default
-config_schedule -effort medium -verbose
+create_clock -period 142.857142857MHz -name default
+config_schedule -verbose
 #source "./prj/pynq_solution/directives.tcl"
-csim_design -O
+csim_design
 csynth_design
-cosim_design
-export_design -format ip_catalog -description "Fast Corner Detector HLS" -vendor "Cospan Design LLC" -library "Cospan Design LLC" -version "0.1" -display_name "Fast Corners"
+cosim_design -trace_level all
+export_design -format ip_catalog

@@ -1,6 +1,6 @@
 /***************************************************************************
 
-*   © Copyright 2013 Xilinx, Inc. All rights reserved. 
+*   �� Copyright 2013 Xilinx, Inc. All rights reserved. 
 
 *   This file contains confidential and proprietary information of Xilinx,
 *   Inc. and is protected under U.S. and international copyright and other
@@ -42,7 +42,7 @@
 #include "hls_opencv.h"
 #include "top.h"
 #include "opencv_top.h"
-#include "../common/image_utils.h"
+#include "../../common/image_utils.h"
 
 using namespace cv;
 

@@ -3,11 +3,11 @@
         <DownStreamTool name="vivado"/>
     </downStreamTool>
     <clockList>
-        <clock default="false" name="default" period="142.857132MHz"/>
+        <clock default="false" name="default" period="142.857142857MHz"/>
     </clockList>
     <config>
+        <config_schedule verbose="1"/>
         <schedule model="image_filter"/>
-        <config_schedule effort="medium" verbose="1"/>
     </config>
     <UIConfigurations>
         <UIAutosynConf hideTrivialOp="true" isBasedOnBoard="false" isSolutionDirty="false" isStopAskAgain="false" showDetailDesignViewer="false">
@@ -42,14 +42,14 @@
         </UIAutoSimConf>
     </UIConfigurations>
     <ExportDesign askAgain="true" evaluate="false" formatName="ip_catalog" rtl="verilog">
-        <Format description="Fast Corner Detector HLS" display_name="Fast Corners" formatName="ip_catalog" library="Cospan Design LLC" vendor="Cospan Design LLC" version="0.1" driver_input_dir="" taxonomy=""/>
+        <Format formatName="ip_catalog"/>
         <Format formatName="sysgen"/>
         <Format formatName="sysgen_ise"/>
         <Format formatName="syn_dcp"/>
         <Format formatName="pcore" use_netlist="none"/>
     </ExportDesign>
     <Simulation>
-        <SimFlow askAgain="true" dumpTrace="none" name="cosim" optimizeCompile="false" reduce_diskspace="false" setup="false" toolName="Auto">
+        <SimFlow askAgain="true" dumpTrace="all" name="cosim" optimizeCompile="false" reduce_diskspace="false" setup="false" toolName="Auto">
             <Rtl active="false" name="systemc"/>
             <Rtl active="true" name="verilog"/>
             <Rtl active="false" name="vhdl"/>
