@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="simple.c" path="/home/cospan/Projects/xilinx_projects/hdl-image-processing/hls/simple_image_process/src/simple.c"/>
+  </source>
+  <testbench>
+    <originFiles name="out.gold.dat" path="/home/cospan/Projects/xilinx_projects/hdl-image-processing/hls/simple_image_process/test/out.gold.dat"/>
+    <originFiles name="simple_test.c" path="/home/cospan/Projects/xilinx_projects/hdl-image-processing/hls/simple_image_process/test/simple_test.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

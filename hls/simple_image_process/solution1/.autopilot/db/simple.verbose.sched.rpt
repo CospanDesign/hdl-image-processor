@@ -1,0 +1,313 @@
+
+
+================================================================
+== Vivado HLS Report for 'simple'
+================================================================
+* Date:           Mon Feb 20 17:55:24 2017
+
+* Version:        2016.4 (Build 1756540 on Mon Jan 23 19:31:01 MST 2017)
+* Project:        simple_image_process
+* Solution:       solution1
+* Product family: zynq
+* Target device:  xc7z020clg400-1
+
+
+================================================================
+== Performance Estimates
+================================================================
++ Timing (ns): 
+    * Summary: 
+    +--------+-------+----------+------------+
+    |  Clock | Target| Estimated| Uncertainty|
+    +--------+-------+----------+------------+
+    |ap_clk  |  10.00|      8.52|        1.25|
+    +--------+-------+----------+------------+
+
++ Latency (clock cycles): 
+    * Summary: 
+    +-----+-----+-----+-----+---------+
+    |  Latency  |  Interval | Pipeline|
+    | min | max | min | max |   Type  |
+    +-----+-----+-----+-----+---------+
+    |   89|   89|   90|   90|   none  |
+    +-----+-----+-----+-----+---------+
+
+    + Detail: 
+        * Instance: 
+        N/A
+
+        * Loop: 
+        +--------------------+-----+-----+----------+-----------+-----------+------+----------+
+        |                    |  Latency  | Iteration|  Initiation Interval  | Trip |          |
+        |      Loop Name     | min | max |  Latency |  achieved |   target  | Count| Pipelined|
+        +--------------------+-----+-----+----------+-----------+-----------+------+----------+
+        |- Shift_Accum_Loop  |   88|   88|         8|          -|          -|    11|    no    |
+        +--------------------+-----+-----+----------+-----------+-----------+------+----------+
+
+============================================================
++ Verbose Summary: Synthesis Manager
+============================================================
+InlineROM: 1
+ExposeGlobal: 0
+============================================================
++ Verbose Summary: CDFG Model
+============================================================
+IsTopModel: 1
+ResetActiveHigh: 1
+IsCombinational: 0
+IsDatapathOnly: 0
+HasWiredReturn: 1
+HasMFsm: 0
+HasVarLatency: 1
+IsPipeline: 0
+IsRtlPipelined: 0
+IsInstanceOverlapped: 0
+IsDontTouch: 0
+HasImplIP: 0
+IsGatedGlobalClock: 0
+
+
+============================================================
++ Verbose Summary: Schedule
+============================================================
+* Number of FSM states: 9
+* Pipeline: 0
+* Dataflow Pipeline: 0
+
+* FSM state transitions: 
+1 --> 
+	2  / true
+2 --> 
+	3  / (!tmp)
+3 --> 
+	4  / true
+4 --> 
+	5  / true
+5 --> 
+	6  / true
+6 --> 
+	7  / true
+7 --> 
+	8  / true
+8 --> 
+	9  / true
+9 --> 
+	2  / true
+* FSM state operations: 
+
+ <State 1>: 1.57ns
+ST_1: StgValue_10 (5)  [1/1] 0.00ns
+:0  call void (...)* @_ssdm_op_SpecBitsMap(i32* %y) nounwind, !map !7
+
+ST_1: StgValue_11 (6)  [1/1] 0.00ns
+:1  call void (...)* @_ssdm_op_SpecBitsMap([11 x i32]* %c) nounwind, !map !13
+
+ST_1: StgValue_12 (7)  [1/1] 0.00ns
+:2  call void (...)* @_ssdm_op_SpecBitsMap(i32 %x) nounwind, !map !19
+
+ST_1: StgValue_13 (8)  [1/1] 0.00ns
+:3  call void (...)* @_ssdm_op_SpecTopModule([7 x i8]* @simple_str) nounwind
+
+ST_1: x_read (9)  [1/1] 0.00ns
+:4  %x_read = call i32 @_ssdm_op_Read.ap_auto.i32(i32 %x) nounwind
+
+ST_1: StgValue_15 (10)  [1/1] 1.57ns  loc: simple_image_process/src/simple.c:60
+:5  br label %1
+
+
+ <State 2>: 4.11ns
+ST_2: acc (12)  [1/1] 0.00ns
+:0  %acc = phi i32 [ 0, %0 ], [ %acc_1, %5 ]
+
+ST_2: i (13)  [1/1] 0.00ns
+:1  %i = phi i5 [ 10, %0 ], [ %i_1, %5 ]
+
+ST_2: i_cast (14)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:60
+:2  %i_cast = sext i5 %i to i32
+
+ST_2: tmp (15)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:60
+:3  %tmp = call i1 @_ssdm_op_BitSelect.i1.i5.i32(i5 %i, i32 4)
+
+ST_2: empty (16)  [1/1] 0.00ns
+:4  %empty = call i32 (...)* @_ssdm_op_SpecLoopTripCount(i64 11, i64 11, i64 11) nounwind
+
+ST_2: StgValue_21 (17)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:60
+:5  br i1 %tmp, label %6, label %2
+
+ST_2: StgValue_22 (19)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:60
+:0  call void (...)* @_ssdm_op_SpecLoopName([17 x i8]* @p_str) nounwind
+
+ST_2: tmp_1 (20)  [1/1] 1.91ns  loc: simple_image_process/src/simple.c:61
+:1  %tmp_1 = icmp eq i5 %i, 0
+
+ST_2: StgValue_24 (21)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:61
+:2  br i1 %tmp_1, label %3, label %4
+
+ST_2: tmp_2 (23)  [1/1] 1.72ns  loc: simple_image_process/src/simple.c:65
+:0  %tmp_2 = add i5 %i, -1
+
+ST_2: tmp_3 (24)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:65
+:1  %tmp_3 = zext i5 %tmp_2 to i64
+
+ST_2: shift_reg_addr (25)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:65
+:2  %shift_reg_addr = getelementptr inbounds [11 x i32]* @shift_reg, i64 0, i64 %tmp_3
+
+ST_2: data (26)  [2/2] 2.39ns  loc: simple_image_process/src/simple.c:65
+:3  %data = load i32* %shift_reg_addr, align 4
+
+ST_2: StgValue_29 (32)  [1/1] 2.39ns  loc: simple_image_process/src/simple.c:62
+:0  store i32 %x_read, i32* getelementptr inbounds ([11 x i32]* @shift_reg, i64 0, i64 0), align 16
+
+ST_2: StgValue_30 (33)  [1/1] 1.57ns  loc: simple_image_process/src/simple.c:64
+:1  br label %5
+
+ST_2: StgValue_31 (44)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:70
+:0  call void @_ssdm_op_Write.ap_auto.i32P(i32* %y, i32 %acc) nounwind
+
+ST_2: StgValue_32 (45)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:71
+:1  ret void
+
+
+ <State 3>: 4.78ns
+ST_3: data (26)  [1/2] 2.39ns  loc: simple_image_process/src/simple.c:65
+:3  %data = load i32* %shift_reg_addr, align 4
+
+ST_3: tmp_4 (27)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:65
+:4  %tmp_4 = zext i32 %i_cast to i64
+
+ST_3: shift_reg_addr_1 (28)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:65
+:5  %shift_reg_addr_1 = getelementptr inbounds [11 x i32]* @shift_reg, i64 0, i64 %tmp_4
+
+ST_3: StgValue_36 (29)  [1/1] 2.39ns  loc: simple_image_process/src/simple.c:65
+:6  store i32 %data, i32* %shift_reg_addr_1, align 4
+
+ST_3: StgValue_37 (30)  [1/1] 1.57ns
+:7  br label %5
+
+ST_3: tmp_5 (36)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:68
+:1  %tmp_5 = zext i32 %i_cast to i64
+
+ST_3: c_addr (37)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:68
+:2  %c_addr = getelementptr [11 x i32]* %c, i64 0, i64 %tmp_5
+
+ST_3: c_load (38)  [2/2] 2.39ns  loc: simple_image_process/src/simple.c:68
+:3  %c_load = load i32* %c_addr, align 4
+
+ST_3: i_1 (41)  [1/1] 1.72ns  loc: simple_image_process/src/simple.c:60
+:6  %i_1 = add i5 %i, -1
+
+
+ <State 4>: 8.47ns
+ST_4: data1 (35)  [1/1] 0.00ns
+:0  %data1 = phi i32 [ %x_read, %3 ], [ %data, %4 ]
+
+ST_4: c_load (38)  [1/2] 2.39ns  loc: simple_image_process/src/simple.c:68
+:3  %c_load = load i32* %c_addr, align 4
+
+ST_4: tmp_6 (39)  [6/6] 6.08ns  loc: simple_image_process/src/simple.c:68
+:4  %tmp_6 = mul nsw i32 %c_load, %data1
+
+
+ <State 5>: 6.08ns
+ST_5: tmp_6 (39)  [5/6] 6.08ns  loc: simple_image_process/src/simple.c:68
+:4  %tmp_6 = mul nsw i32 %c_load, %data1
+
+
+ <State 6>: 6.08ns
+ST_6: tmp_6 (39)  [4/6] 6.08ns  loc: simple_image_process/src/simple.c:68
+:4  %tmp_6 = mul nsw i32 %c_load, %data1
+
+
+ <State 7>: 6.08ns
+ST_7: tmp_6 (39)  [3/6] 6.08ns  loc: simple_image_process/src/simple.c:68
+:4  %tmp_6 = mul nsw i32 %c_load, %data1
+
+
+ <State 8>: 6.08ns
+ST_8: tmp_6 (39)  [2/6] 6.08ns  loc: simple_image_process/src/simple.c:68
+:4  %tmp_6 = mul nsw i32 %c_load, %data1
+
+
+ <State 9>: 8.52ns
+ST_9: tmp_6 (39)  [1/6] 6.08ns  loc: simple_image_process/src/simple.c:68
+:4  %tmp_6 = mul nsw i32 %c_load, %data1
+
+ST_9: acc_1 (40)  [1/1] 2.44ns  loc: simple_image_process/src/simple.c:68
+:5  %acc_1 = add nsw i32 %tmp_6, %acc
+
+ST_9: StgValue_51 (42)  [1/1] 0.00ns  loc: simple_image_process/src/simple.c:60
+:7  br label %1
+
+
+
+============================================================
++ Verbose Summary: Timing violations
+============================================================
+Target clock period: 10ns, clock uncertainty: 1.25ns.
+
+ <State 1>: 1.57ns
+The critical path consists of the following:
+	multiplexor before 'phi' operation ('acc') with incoming values : ('acc', simple_image_process/src/simple.c:68) [12]  (1.57 ns)
+
+ <State 2>: 4.11ns
+The critical path consists of the following:
+	'phi' operation ('i') with incoming values : ('i', simple_image_process/src/simple.c:60) [13]  (0 ns)
+	'add' operation ('tmp_2', simple_image_process/src/simple.c:65) [23]  (1.72 ns)
+	'getelementptr' operation ('shift_reg_addr', simple_image_process/src/simple.c:65) [25]  (0 ns)
+	'load' operation ('data', simple_image_process/src/simple.c:65) on array 'shift_reg' [26]  (2.39 ns)
+
+ <State 3>: 4.78ns
+The critical path consists of the following:
+	'load' operation ('data', simple_image_process/src/simple.c:65) on array 'shift_reg' [26]  (2.39 ns)
+	'store' operation (simple_image_process/src/simple.c:65) of variable 'data', simple_image_process/src/simple.c:65 on array 'shift_reg' [29]  (2.39 ns)
+
+ <State 4>: 8.47ns
+The critical path consists of the following:
+	'load' operation ('c_load', simple_image_process/src/simple.c:68) on array 'c' [38]  (2.39 ns)
+	'mul' operation ('tmp_6', simple_image_process/src/simple.c:68) [39]  (6.08 ns)
+
+ <State 5>: 6.08ns
+The critical path consists of the following:
+	'mul' operation ('tmp_6', simple_image_process/src/simple.c:68) [39]  (6.08 ns)
+
+ <State 6>: 6.08ns
+The critical path consists of the following:
+	'mul' operation ('tmp_6', simple_image_process/src/simple.c:68) [39]  (6.08 ns)
+
+ <State 7>: 6.08ns
+The critical path consists of the following:
+	'mul' operation ('tmp_6', simple_image_process/src/simple.c:68) [39]  (6.08 ns)
+
+ <State 8>: 6.08ns
+The critical path consists of the following:
+	'mul' operation ('tmp_6', simple_image_process/src/simple.c:68) [39]  (6.08 ns)
+
+ <State 9>: 8.52ns
+The critical path consists of the following:
+	'mul' operation ('tmp_6', simple_image_process/src/simple.c:68) [39]  (6.08 ns)
+	'add' operation ('acc', simple_image_process/src/simple.c:68) [40]  (2.44 ns)
+
+
+============================================================
++ Verbose Summary: Binding
+============================================================
+N/A
+* FSMD analyzer results:
+  - Output states:
+ - Input state : 
+  - Chain level:
+	State 1
+	State 2
+	State 3
+	State 4
+	State 5
+	State 6
+	State 7
+	State 8
+	State 9
+
+
+============================================================
++ Verbose Summary: Datapath Resource usage 
+============================================================
+N/A

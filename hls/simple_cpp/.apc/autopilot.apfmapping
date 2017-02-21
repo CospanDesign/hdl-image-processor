@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="simple.cpp" path="/home/cospan/Projects/xilinx_projects/hdl-image-processing/hls/simple_cpp/source/simple.cpp"/>
+    <originFiles name="simple.h" path="/home/cospan/Projects/xilinx_projects/hdl-image-processing/hls/simple_cpp/include/simple.h"/>
+  </source>
+  <testbench>
+    <originFiles name="test_simple.cpp" path="/home/cospan/Projects/xilinx_projects/hdl-image-processing/hls/simple_cpp/test/test_simple.cpp"/>
+    <originFiles name="simple.h" path="/home/cospan/Projects/xilinx_projects/hdl-image-processing/hls/simple_cpp/include/simple.h"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

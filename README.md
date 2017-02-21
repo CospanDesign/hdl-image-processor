@@ -28,3 +28,6 @@ The project is broken down into three main parts:
  * libjpeg ??
  * libopencv ??
 
+#How to use Vivado HLD#
+
+Vivado HLS can be run in command line mode and GUI mode.
